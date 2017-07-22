@@ -1,0 +1,3482 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#: arenalobby/src/main/java/net/badlion/arenalobby/listeners/VoteListener.java:33
+msgid ""
+msgstr ""
+"Project-Id-Version: Package Name\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-09-03 01:59+0100\n"
+"PO-Revision-Date: 2016-09-03 02:00+0\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+
+#: archmoney/src/main/java/net/badlion/archmoney/commands/GiveCommand.java:106
+#, java-format
+msgid "{0}You have been given {1} by an admin"
+msgstr ""
+
+#: archmoney/src/main/java/net/badlion/archmoney/commands/MoneyCommand.java:26
+#, java-format
+msgid "{0}Money{1} Balance: {0} Dollars"
+msgstr ""
+
+#: archmoney/src/main/java/net/badlion/archmoney/commands/MoneyCommand.java:38
+#, java-format
+msgid "{0}Money{1} {2}''s Balance: {3} Dollars"
+msgstr ""
+
+#: archmoney/src/main/java/net/badlion/archmoney/commands/MoneyCommand.java:43
+#: kfactions/src/main/java/com/massivecraft/factions/cmd/deathban/LivesCommand.java:24
+#, java-format
+msgid "{0}Could not find {1}"
+msgstr ""
+
+#: archmoney/src/main/java/net/badlion/archmoney/commands/MoneyCommand.java:49
+#, java-format
+msgid "{0}Money{1} {2}'s Balance: {1} Dollars"
+msgstr ""
+
+#: archmoney/src/main/java/net/badlion/archmoney/commands/PayCommand.java:39
+#, java-format
+msgid "{0}Error: {1}Please enter a valid number."
+msgstr ""
+
+#: archmoney/src/main/java/net/badlion/archmoney/commands/TakeCommand.java:121
+#, java-format
+msgid "{0}You have had {0} taken by an admin"
+msgstr ""
+
+#: archmoney/src/main/java/net/badlion/archmoney/commands/TopCommand.java:43
+#, java-format
+msgid "{0}---Top 10 Balances---"
+msgstr ""
+
+#: arenalobby/src/main/java/net/badlion/arenalobby/ArenaLobby.java:491
+#, java-format
+msgid ""
+"{0}You have glitched out of the PotPvP system. You have been removed to "
+"prevent corruption."
+msgstr ""
+
+#: arenalobby/src/main/java/net/badlion/arenalobby/ArenaLobby.java:554
+#, java-format
+msgid "{0}Something broke, contact an administrator."
+msgstr ""
+
+#: arenalobby/src/main/java/net/badlion/arenalobby/commands/AcceptDuelCommand.java:28
+#, java-format
+msgid "{0}Could not find the request."
+msgstr ""
+
+#: arenalobby/src/main/java/net/badlion/arenalobby/commands/AcceptDuelCommand.java:38
+#, java-format
+msgid "{0}Command usage: /accept <player> to accept a duel request"
+msgstr ""
+
+#: arenalobby/src/main/java/net/badlion/arenalobby/commands/GCommandExecutor.java:50
+msgid "Invalid authorization."
+msgstr ""
+
+#: arenalobby/src/main/java/net/badlion/arenalobby/commands/JoinQueueCommand.java:21
+#, java-format
+msgid "{0}Could not find kit."
+msgstr ""
+
+#: arenalobby/src/main/java/net/badlion/arenalobby/commands/JoinQueueCommand.java:35
+#: arenalobby/src/main/java/net/badlion/arenalobby/commands/JoinQueueCommand.java:47
+#, java-format
+msgid "{0}Could not find queue."
+msgstr ""
+
+#: arenalobby/src/main/java/net/badlion/arenalobby/commands/JoinQueueCommand.java:52
+#, java-format
+msgid "{0}Command usage: {1} to join a queue"
+msgstr ""
+
+#: arenalobby/src/main/java/net/badlion/arenalobby/commands/LeaveCommand.java:25
+#, java-format
+msgid "{0}Can only use /leave when in queue."
+msgstr ""
+
+#: arenalobby/src/main/java/net/badlion/arenalobby/commands/LeaveCommand.java:28
+#, java-format
+msgid "{0}Only the leader can perform /leave."
+msgstr ""
+
+#: arenalobby/src/main/java/net/badlion/arenalobby/commands/LeaveCommand.java:34
+#: arenalobby/src/main/java/net/badlion/arenalobby/commands/SpawnCommand.java:42
+#, java-format
+msgid "{0}Command usage: {1}"
+msgstr ""
+
+#: arenalobby/src/main/java/net/badlion/arenalobby/commands/MCPCommand.java:41
+#, java-format
+msgid "{0}Do not spam this command."
+msgstr ""
+
+#: arenalobby/src/main/java/net/badlion/arenalobby/commands/RatingCommand.java:27
+#, java-format
+msgid "{0}Your {1} rating is: {2}"
+msgstr ""
+
+#: arenalobby/src/main/java/net/badlion/arenalobby/commands/RatingCommand.java:30
+#, java-format
+msgid ""
+"{0}Could not find your rating at the moment. Try again in a few seconds."
+msgstr ""
+
+#: arenalobby/src/main/java/net/badlion/arenalobby/commands/RebootCommand.java:16
+#, java-format
+msgid "{0}No Permission."
+msgstr ""
+
+#: arenalobby/src/main/java/net/badlion/arenalobby/commands/ResetEloCommand.java:52
+#, java-format
+msgid "{0}You have an ELO reset token! Type \"{1}\" to redeem it!"
+msgstr ""
+
+#: arenalobby/src/main/java/net/badlion/arenalobby/commands/ResetEloCommand.java:153
+#, java-format
+msgid "{0}Your ELO has been reset."
+msgstr ""
+
+#: arenalobby/src/main/java/net/badlion/arenalobby/commands/ResetEloCommand.java:189
+#, java-format
+msgid "{0}Cancelled ELO reset."
+msgstr ""
+
+#: arenalobby/src/main/java/net/badlion/arenalobby/commands/ResetEloCommand.java:205
+#, java-format
+msgid "{0}You have chosen to reset your ELO on all {1}ladders."
+msgstr ""
+
+#: arenalobby/src/main/java/net/badlion/arenalobby/commands/ResetEloCommand.java:212
+#, java-format
+msgid ""
+"{0}You do not have any ELO resets available. You may purchase one at {1}"
+msgstr ""
+
+#: arenalobby/src/main/java/net/badlion/arenalobby/commands/ResetEloCommand.java:259
+#, java-format
+msgid "{0}Elo reset given to {1}"
+msgstr ""
+
+#: arenalobby/src/main/java/net/badlion/arenalobby/commands/ResetEloCommand.java:267
+#, java-format
+msgid "{0}How to reset your ELO for {1}"
+msgstr ""
+
+#: arenalobby/src/main/java/net/badlion/arenalobby/commands/ResetEloCommand.java:272
+#, java-format
+msgid "{0}Use \"/{1}\" to confirm or deny the reset."
+msgstr ""
+
+#: arenalobby/src/main/java/net/badlion/arenalobby/commands/SpawnCommand.java:36
+#, java-format
+msgid "{0}You can only use {1} when in a game. Use {2} to leave a queue."
+msgstr ""
+
+#: arenalobby/src/main/java/net/badlion/arenalobby/commands/StatsCommand.java:51
+#, java-format
+msgid "{0}That player is not online!"
+msgstr ""
+
+#: arenalobby/src/main/java/net/badlion/arenalobby/commands/StatsCommand.java:57
+#, java-format
+msgid "{0}Data has not been loaded, try again in a few seconds!"
+msgstr ""
+
+#: arenalobby/src/main/java/net/badlion/arenalobby/commands/ToggleFlightCommand.java:18
+#, java-format
+msgid "{0}Only players can fly dumbass."
+msgstr ""
+
+#: arenalobby/src/main/java/net/badlion/arenalobby/commands/ToggleFlightCommand.java:24
+#, java-format
+msgid "{0}You do not have permission."
+msgstr ""
+
+#: arenalobby/src/main/java/net/badlion/arenalobby/commands/ToggleFlightCommand.java:30
+#, java-format
+msgid "{0}You can not fly while in the kit editing area."
+msgstr ""
+
+#: arenalobby/src/main/java/net/badlion/arenalobby/commands/ToggleFlightCommand.java:51
+#, java-format
+msgid "{0}You have toggled flight {1}"
+msgstr ""
+
+#: arenalobby/src/main/java/net/badlion/arenalobby/commands/ToggleFlightCommand.java:55
+#, java-format
+msgid "{0}You have already enabled flight."
+msgstr ""
+
+#: arenalobby/src/main/java/net/badlion/arenalobby/commands/ToggleFlightCommand.java:59
+#, java-format
+msgid "{0}You have toggled flight on."
+msgstr ""
+
+#: arenalobby/src/main/java/net/badlion/arenalobby/commands/ToggleFlightCommand.java:63
+#, java-format
+msgid "{0}You have already disabled flight."
+msgstr ""
+
+#: arenalobby/src/main/java/net/badlion/arenalobby/commands/ToggleFlightCommand.java:67
+#, java-format
+msgid "{0}You have toggled flight off."
+msgstr ""
+
+#: arenalobby/src/main/java/net/badlion/arenalobby/commands/ViewOpponentInventoryCommand.java:25
+#, java-format
+msgid "Unknown command. Type \"{0}\" for help."
+msgstr ""
+
+#: arenalobby/src/main/java/net/badlion/arenalobby/helpers/DuelHelper.java:53
+#, java-format
+msgid "{0}You are not able to accept this duel request."
+msgstr ""
+
+#: arenalobby/src/main/java/net/badlion/arenalobby/helpers/DuelHelper.java:93
+#, java-format
+msgid "{0}Accepted duel request from {1}"
+msgstr ""
+
+#: arenalobby/src/main/java/net/badlion/arenalobby/helpers/DuelHelper.java:96
+#, java-format
+msgid "{0}Unable to accept duel request try again later."
+msgstr ""
+
+#: arenalobby/src/main/java/net/badlion/arenalobby/helpers/KitCreationHelper.java:356
+#: arenalobby/src/main/java/net/badlion/arenalobby/helpers/KitCreationHelper.java:425
+#, java-format
+msgid "{0}Hold the item to enchant in your hand"
+msgstr ""
+
+#: arenalobby/src/main/java/net/badlion/arenalobby/helpers/KitCreationHelper.java:361
+#, java-format
+msgid "{0}Cannot put enchant on this item"
+msgstr ""
+
+#: arenalobby/src/main/java/net/badlion/arenalobby/helpers/KitCreationHelper.java:376
+#, java-format
+msgid "{0}Successfully applied enchantment"
+msgstr ""
+
+#: arenalobby/src/main/java/net/badlion/arenalobby/helpers/KitCreationHelper.java:434
+#, java-format
+msgid "{0}Cannot put this enchant on the item in your hand"
+msgstr ""
+
+#: arenalobby/src/main/java/net/badlion/arenalobby/helpers/KitInventoryHelper.java:65
+#, java-format
+msgid "{0}Do not spam kit preview, wait 1 second in between previews"
+msgstr ""
+
+#: arenalobby/src/main/java/net/badlion/arenalobby/helpers/KitInventoryHelper.java:110
+#, java-format
+msgid "{0}No kit found to load."
+msgstr ""
+
+#: arenalobby/src/main/java/net/badlion/arenalobby/helpers/PartyHelper.java:69
+#, java-format
+msgid ""
+"{0}An error has occured, please notify an administrator and post this on the "
+"forums under bug reports. #1"
+msgstr ""
+
+#: arenalobby/src/main/java/net/badlion/arenalobby/helpers/PartyHelper.java:73
+#, java-format
+msgid "{0}Trying to start party {1} event..."
+msgstr ""
+
+#: arenalobby/src/main/java/net/badlion/arenalobby/helpers/PartyHelper.java:97
+#, java-format
+msgid "{0}Unable to start party event, try again later."
+msgstr ""
+
+#: arenalobby/src/main/java/net/badlion/arenalobby/inventories/duel/DuelChooseKitInventory.java:133
+#, java-format
+msgid "{0}You need one more person in your party to play Red Rover!"
+msgstr ""
+
+#: arenalobby/src/main/java/net/badlion/arenalobby/inventories/duel/DuelChooseKitInventory.java:152
+#, java-format
+msgid "{0}Could not find player. Try again."
+msgstr ""
+
+#: arenalobby/src/main/java/net/badlion/arenalobby/inventories/duel/DuelChooseKitInventory.java:177
+#, java-format
+msgid "{0}You cannot use the SkyWars kit for Red Rover!"
+msgstr ""
+
+#: arenalobby/src/main/java/net/badlion/arenalobby/inventories/duel/DuelChooseKitInventory.java:219
+#, java-format
+msgid "{0}That player is no longer online."
+msgstr ""
+
+#: arenalobby/src/main/java/net/badlion/arenalobby/inventories/duel/DuelChooseKitInventory.java:282
+#, java-format
+msgid "{0}Duel request sent to {0}"
+msgstr ""
+
+#: arenalobby/src/main/java/net/badlion/arenalobby/inventories/duel/DuelChooseKitInventory.java:292
+#, java-format
+msgid "{0}Unable to send duel request, try again later."
+msgstr ""
+
+#: arenalobby/src/main/java/net/badlion/arenalobby/inventories/duel/DuelRequestInventory.java:203
+msgid "Duel request has expired."
+msgstr ""
+
+#: arenalobby/src/main/java/net/badlion/arenalobby/inventories/duel/DuelRequestInventory.java:243
+#: arenalobby/src/main/java/net/badlion/arenalobby/inventories/duel/DuelRequestInventory.java:268
+#: arenalobby/src/main/java/net/badlion/arenalobby/inventories/duel/DuelRequestInventory.java:293
+msgid "Now accepting duel requests"
+msgstr ""
+
+#: arenalobby/src/main/java/net/badlion/arenalobby/inventories/duel/DuelRequestInventory.java:245
+#: arenalobby/src/main/java/net/badlion/arenalobby/inventories/duel/DuelRequestInventory.java:270
+#: arenalobby/src/main/java/net/badlion/arenalobby/inventories/duel/DuelRequestInventory.java:295
+msgid "No longer accepting duel requests"
+msgstr ""
+
+#: arenalobby/src/main/java/net/badlion/arenalobby/inventories/kitcreation/KitMultiSaveLoadInventory.java:86
+#, java-format
+msgid "Deleted {0} kit: {1}"
+msgstr ""
+
+#: arenalobby/src/main/java/net/badlion/arenalobby/inventories/kitcreation/KitPreviewInventory.java:129
+#: arenapvp/src/main/java/net/badlion/arenapvp/inventory/KitPreviewInventory.java:94
+msgid "Could not load kit."
+msgstr ""
+
+#: arenalobby/src/main/java/net/badlion/arenalobby/inventories/lobby/ChatLobbySelectorInventory.java:132
+#: arenalobby/src/main/java/net/badlion/arenalobby/inventories/lobby/ChatLobbySelectorInventory.java:137
+msgid "Joining Chat Lobby "
+msgstr ""
+
+#: arenalobby/src/main/java/net/badlion/arenalobby/inventories/lobby/ChatLobbySelectorInventory.java:156
+msgid "You have joined Chat Lobby "
+msgstr ""
+
+#: arenalobby/src/main/java/net/badlion/arenalobby/inventories/lobby/ChatLobbySelectorInventory.java:158
+#, java-format
+msgid "You have joined Chat Lobby {0}."
+msgstr ""
+
+#: arenalobby/src/main/java/net/badlion/arenalobby/inventories/lobby/ChatLobbySelectorInventory.java:164
+msgid "You are already in this chat lobby!"
+msgstr ""
+
+#: arenalobby/src/main/java/net/badlion/arenalobby/inventories/lobby/ChatLobbySelectorInventory.java:166
+#: arenalobby/src/main/java/net/badlion/arenalobby/inventories/lobby/ChatLobbySelectorInventory.java:168
+msgid "Only Donator+ users or higher can join the premium chat lobby!"
+msgstr ""
+
+#: arenalobby/src/main/java/net/badlion/arenalobby/inventories/lobby/ChatLobbySelectorInventory.java:170
+#, java-format
+msgid "ERROR, please report this as a bug: {0}"
+msgstr ""
+
+#: arenalobby/src/main/java/net/badlion/arenalobby/inventories/lobby/FFAInventory.java:116
+#: arenalobby/src/main/java/net/badlion/arenalobby/inventories/lobby/LobbySelectorInventory.java:107
+msgid "Connecting..."
+msgstr ""
+
+#: arenalobby/src/main/java/net/badlion/arenalobby/inventories/lobby/KitCreationKitSelectionInventory.java:135
+msgid "Please try again in a second, we are still loading your kits."
+msgstr ""
+
+#: arenalobby/src/main/java/net/badlion/arenalobby/inventories/lobby/SettingsInventory.java:207
+msgid "Only donators can change the color of their names."
+msgstr ""
+
+#: arenalobby/src/main/java/net/badlion/arenalobby/inventories/lobby/SettingsInventory.java:208
+#: arenalobby/src/main/java/net/badlion/arenalobby/managers/DonatorManager.java:34
+msgid ""
+"Become a donator at http://store.badlion.net/ and help support the server."
+msgstr ""
+
+#: arenalobby/src/main/java/net/badlion/arenalobby/inventories/lobby/SettingsInventory.java:234
+#, java-format
+msgid "Duel Requests: {0}"
+msgstr ""
+
+#: arenalobby/src/main/java/net/badlion/arenalobby/inventories/lobby/SettingsInventory.java:239
+#, java-format
+msgid "Party Invites: {0}"
+msgstr ""
+
+#: arenalobby/src/main/java/net/badlion/arenalobby/inventories/lobby/SettingsInventory.java:248
+#, java-format
+msgid "Duel Request Type: {0}"
+msgstr ""
+
+#: arenalobby/src/main/java/net/badlion/arenalobby/inventories/lobby/SettingsInventory.java:253
+#, java-format
+msgid "Sidebar In Duels: {0}"
+msgstr ""
+
+#: arenalobby/src/main/java/net/badlion/arenalobby/inventories/lobby/SettingsInventory.java:258
+#, java-format
+msgid "Showing Titles (1.8+ Only): {0}"
+msgstr ""
+
+#: arenalobby/src/main/java/net/badlion/arenalobby/inventories/lobby/SettingsInventory.java:263
+#, java-format
+msgid "Show Players In The Lobby: {0}"
+msgstr ""
+
+#: arenalobby/src/main/java/net/badlion/arenalobby/inventories/lobby/SettingsInventory.java:268
+#, java-format
+msgid "Show Colored Helmets In Spectator: {0}"
+msgstr ""
+
+#: arenalobby/src/main/java/net/badlion/arenalobby/inventories/lobby/SettingsInventory.java:272
+#, java-format
+msgid "Show Rank Prefix: {0}"
+msgstr ""
+
+#: arenalobby/src/main/java/net/badlion/arenalobby/inventories/lobby/SpawnSelectorInventory.java:84
+#: gfactions/src/main/java/net/badlion/gfactions/commands/StuckCommand.java:82
+#: gfactions/src/main/java/net/badlion/gfactions/commands/StuckCommand.java:90
+#: gfactions/src/main/java/net/badlion/gfactions/tasks/WarpTask.java:65
+#: gfactions/src/main/java/net/badlion/gfactions/tasks/WarpTask.java:71
+msgid "Teleporting..."
+msgstr ""
+
+#: arenalobby/src/main/java/net/badlion/arenalobby/inventories/lobby/SpawnSelectorInventory.java:87
+msgid "There is no spawn point for this ladder."
+msgstr ""
+
+#: arenalobby/src/main/java/net/badlion/arenalobby/inventories/party/PartyListInventory.java:166
+#, java-format
+msgid "{0}'s party does not exist anymore!"
+msgstr ""
+
+#: arenalobby/src/main/java/net/badlion/arenalobby/inventories/party/PartyPlayerInventoriesInventory.java:243
+#, java-format
+msgid "{0} has logged off!"
+msgstr ""
+
+#: arenalobby/src/main/java/net/badlion/arenalobby/listeners/GlobalListener.java:318
+#: arenalobby/src/main/java/net/badlion/arenalobby/listeners/GlobalListener.java:333
+msgid "Welcome to Badlion ArenaPvP"
+msgstr ""
+
+#: arenalobby/src/main/java/net/badlion/arenalobby/listeners/GlobalListener.java:319
+msgid ""
+"Use the inventory items in your hotbar by right clicking them to explore the "
+"server"
+msgstr ""
+
+#: arenalobby/src/main/java/net/badlion/arenalobby/listeners/GlobalListener.java:321
+msgid "Other Commands:"
+msgstr ""
+
+#: arenalobby/src/main/java/net/badlion/arenalobby/listeners/GlobalListener.java:322
+msgid "/cc [message] - Send a message to your clan"
+msgstr ""
+
+#: arenalobby/src/main/java/net/badlion/arenalobby/listeners/GlobalListener.java:323
+msgid "/duel [name] - Duel another player on the server"
+msgstr ""
+
+#: arenalobby/src/main/java/net/badlion/arenalobby/listeners/GlobalListener.java:324
+msgid "/party - Party commands"
+msgstr ""
+
+#: arenalobby/src/main/java/net/badlion/arenalobby/listeners/GlobalListener.java:325
+msgid "/spec [name] - Teleport to a player to spectate them"
+msgstr ""
+
+#: arenalobby/src/main/java/net/badlion/arenalobby/listeners/GlobalListener.java:326
+msgid "/follow [name] - Follow a player around to their matches"
+msgstr ""
+
+#: arenalobby/src/main/java/net/badlion/arenalobby/listeners/GlobalListener.java:327
+msgid ""
+"/giftmatches [name] - Gift a player your ranked matches for the day, 20 "
+"ranked matches if you are Donator+ or 40 ranked matches if Lion"
+msgstr ""
+
+#: arenalobby/src/main/java/net/badlion/arenalobby/listeners/GlobalListener.java:329
+msgid ""
+"You are now in the Kit Creation area. Here you can modify your kits for "
+"gameplay."
+msgstr ""
+
+#: arenalobby/src/main/java/net/badlion/arenalobby/listeners/GlobalListener.java:331
+msgid ""
+"You are currently waiting for a match. Sometimes matches might take a little "
+"while to find."
+msgstr ""
+
+#: arenalobby/src/main/java/net/badlion/arenalobby/listeners/GlobalListener.java:334
+msgid "Ask around for further help if you need it!"
+msgstr ""
+
+#: arenalobby/src/main/java/net/badlion/arenalobby/listeners/PlayerListener.java:56
+msgid "Flight mode enabled. Use /fly to toggle flight."
+msgstr ""
+
+#: arenalobby/src/main/java/net/badlion/arenalobby/listeners/VoteListener.java:59
+#: arenalobby/src/main/java/net/badlion/arenalobby/listeners/VoteListener.java:81
+msgid ""
+"You have voted! You earn 4 ranked matches per site you vote on, there are up "
+"to 5 sites to vote on daily!"
+msgstr ""
+
+#: arenalobby/src/main/java/net/badlion/arenalobby/managers/DonatorManager.java:33
+msgid "Only donators can start events."
+msgstr ""
+
+#: arenalobby/src/main/java/net/badlion/arenalobby/managers/LadderManager.java:102
+#: arenalobby/src/main/java/net/badlion/arenalobby/managers/LadderManager.java:123
+#: potpvp/src/main/java/net/badlion/potpvp/commands/RankedCommand.java:26
+#: potpvp/src/main/java/net/badlion/potpvp/commands/RankedTeamCommand.java:26
+msgid "Server restart soon.  Wait until after restart to play ranked matches."
+msgstr ""
+
+#: arenalobby/src/main/java/net/badlion/arenalobby/managers/LadderManager.java:107
+msgid "You are already in a queue."
+msgstr ""
+
+#: arenalobby/src/main/java/net/badlion/arenalobby/managers/LadderManager.java:114
+#: potpvp/src/main/java/net/badlion/potpvp/commands/RankedCommand.java:32
+#: potpvp/src/main/java/net/badlion/potpvp/commands/RankedTeamCommand.java:55
+#: potpvp/src/main/java/net/badlion/potpvp/commands/UnrankedCommand.java:24
+msgid "Invalid ladder specified."
+msgstr ""
+
+#: arenalobby/src/main/java/net/badlion/arenalobby/managers/TournamentManager.java:62
+msgid "Unable to join tournament queue, try again later."
+msgstr ""
+
+#: arenalobby/src/main/java/net/badlion/arenalobby/managers/VisibilityManager.java:37
+msgid "You can not see other players in this lobby."
+msgstr ""
+
+#: arenalobby/src/main/java/net/badlion/arenalobby/matchmaking/EventQueueService.java:112
+#, java-format
+msgid "Added to {0} queue."
+msgstr ""
+
+#: arenalobby/src/main/java/net/badlion/arenalobby/matchmaking/EventQueueService.java:113
+msgid ""
+"A UHC Meetup will start in a few minutes when enough players join queue."
+msgstr ""
+
+#: arenalobby/src/main/java/net/badlion/arenalobby/matchmaking/EventQueueService.java:122
+#: arenalobby/src/main/java/net/badlion/arenalobby/matchmaking/QueueService.java:145
+msgid "Unable to join a queue, try again later."
+msgstr ""
+
+#: arenalobby/src/main/java/net/badlion/arenalobby/matchmaking/EventQueueService.java:163
+#: arenalobby/src/main/java/net/badlion/arenalobby/matchmaking/QueueService.java:187
+msgid "Left matchmaking."
+msgstr ""
+
+#: arenalobby/src/main/java/net/badlion/arenalobby/matchmaking/EventQueueService.java:174
+#: arenalobby/src/main/java/net/badlion/arenalobby/matchmaking/QueueService.java:198
+msgid "Unable to leave the queue right now."
+msgstr ""
+
+#: arenalobby/src/main/java/net/badlion/arenalobby/matchmaking/QueueService.java:96
+#: potpvp/src/main/java/net/badlion/potpvp/commands/UnrankedCommand.java:32
+msgid ""
+"You have reached your daily quota of ranked matches. You can get more by "
+"donating at http://store.badlion.net/"
+msgstr ""
+
+#: arenalobby/src/main/java/net/badlion/arenalobby/matchmaking/QueueService.java:117
+msgid ""
+"Today's ladders in which you can play unlimited unranked matches in are: {0}"
+msgstr ""
+
+#: arenalobby/src/main/java/net/badlion/arenalobby/matchmaking/QueueService.java:118
+msgid ""
+"You have reached your daily quota of unranked matches. You can get more by "
+"donating at http://store.badlion.net/"
+msgstr ""
+
+#: arenalobby/src/main/java/net/badlion/arenalobby/matchmaking/QueueService.java:140
+#, java-format
+msgid "Added to {0} matchmaking."
+msgstr ""
+
+#: arenalobby/src/main/java/net/badlion/arenalobby/states/LobbyState.java:107
+msgid "Your data has not loaded yet, please try again in a few seconds."
+msgstr ""
+
+#: arenalobby/src/main/java/net/badlion/arenalobby/states/LobbyState.java:118
+msgid "Tournament mode is enabled, 1v1 ranked is disabled."
+msgstr ""
+
+#: arenalobby/src/main/java/net/badlion/arenalobby/states/LobbyState.java:160
+msgid ""
+"You can spectate players by using '/spec [name]' or '/follow [name]'. Do '/"
+"help' for more information!"
+msgstr ""
+
+#: arenalobby/src/main/java/net/badlion/arenalobby/states/kits/KitCreationState.java:63
+msgid ""
+"Cannot edit kit contents or enchants in this kit, can only move items around."
+msgstr ""
+
+#: arenalobby/src/main/java/net/badlion/arenalobby/states/kits/KitCreationState.java:75
+msgid "Flight Mode Disabled"
+msgstr ""
+
+#: arenalobby/src/main/java/net/badlion/arenalobby/states/kits/KitCreationState.java:110
+msgid "Welcome to the Kit Creation area, open the chest to customize your kit!"
+msgstr ""
+
+#: arenalobby/src/main/java/net/badlion/arenalobby/states/kits/KitCreationState.java:190
+msgid "Inventory cleared"
+msgstr ""
+
+#: arenalobby/src/main/java/net/badlion/arenalobby/states/kits/KitCreationState.java:197
+msgid "Teleporting to spawn..."
+msgstr ""
+
+#: arenalobby/src/main/java/net/badlion/arenalobby/states/kits/KitCreationState.java:212
+#, java-format
+msgid "Cannot edit items in {0} kit."
+msgstr ""
+
+#: arenalobby/src/main/java/net/badlion/arenalobby/states/matchmaking/MatchMakingState.java:72
+#, java-format
+msgid "Currently in queue for: {0}"
+msgstr ""
+
+#: arenalobby/src/main/java/net/badlion/arenalobby/states/matchmaking/MatchMakingState.java:79
+msgid "Kit for this game is unknown."
+msgstr ""
+
+#: arenapvp/src/main/java/net/badlion/arenapvp/ArenaPvP.java:451
+msgid "Something broke, contact an administrator."
+msgstr ""
+
+#: arenapvp/src/main/java/net/badlion/arenapvp/command/RebootCommand.java:16
+msgid "No Permission."
+msgstr ""
+
+#: arenapvp/src/main/java/net/badlion/arenapvp/command/SpectatorCommand.java:25
+#: potpvp/src/main/java/net/badlion/potpvp/commands/FollowCommand.java:35
+msgid "Cannot spectate this staff member at the moment."
+msgstr ""
+
+#: arenapvp/src/main/java/net/badlion/arenapvp/command/SpectatorCommand.java:30
+#: arenapvp/src/main/java/net/badlion/arenapvp/inventory/SpectatorInventory.java:61
+#: potpvp/src/main/java/net/badlion/potpvp/commands/DuelCommand.java:205
+msgid "Player not found."
+msgstr ""
+
+#: arenapvp/src/main/java/net/badlion/arenapvp/command/SpectatorCommand.java:33
+msgid "Command usage: /sp <player> to spectate a player."
+msgstr ""
+
+#: arenapvp/src/main/java/net/badlion/arenapvp/command/SpectatorCommand.java:36
+msgid "You must be in spectator mode to use this command."
+msgstr ""
+
+#: arenapvp/src/main/java/net/badlion/arenapvp/command/StatsCommand.java:37
+msgid "You can not use this command right now."
+msgstr ""
+
+#: arenapvp/src/main/java/net/badlion/arenapvp/command/StatsCommand.java:57
+#: kfactions/src/main/java/com/massivecraft/factions/cmd/pvpprot/CmdEnable.java:41
+msgid "That player is not online!"
+msgstr ""
+
+#: arenapvp/src/main/java/net/badlion/arenapvp/command/StatsCommand.java:76
+msgid "Unable to load stats, try again later."
+msgstr ""
+
+#: arenapvp/src/main/java/net/badlion/arenapvp/helper/KitInventoryHelper.java:59
+msgid "Do not spam kit preview, wait 1 second in between previews"
+msgstr ""
+
+#: arenapvp/src/main/java/net/badlion/arenapvp/helper/KitInventoryHelper.java:94
+msgid "No kit found to load."
+msgstr ""
+
+#: arenapvp/src/main/java/net/badlion/arenapvp/helper/SpectatorHelper.java:58
+msgid "Cannot use spectator at the moment."
+msgstr ""
+
+#: arenapvp/src/main/java/net/badlion/arenapvp/inventory/RedRoverChoseCaptainInventory.java:65
+#: arenapvp/src/main/java/net/badlion/arenapvp/inventory/RedRoverChosePlayersInventory.java:88
+msgid "That player has left the game, please pick a new player!"
+msgstr ""
+
+#: arenapvp/src/main/java/net/badlion/arenapvp/inventory/RedRoverChoseCaptainInventory.java:75
+#, java-format
+msgid "Picked {0} as the second captain!"
+msgstr ""
+
+#: arenapvp/src/main/java/net/badlion/arenapvp/inventory/RedRoverChoseCaptainInventory.java:99
+msgid "Pick the other captain before you close the inventory."
+msgstr ""
+
+#: arenapvp/src/main/java/net/badlion/arenapvp/inventory/RedRoverChosePlayersInventory.java:94
+msgid "That player is already in a team."
+msgstr ""
+
+#: arenapvp/src/main/java/net/badlion/arenapvp/inventory/RedRoverChosePlayersInventory.java:113
+#: arenapvp/src/main/java/net/badlion/arenapvp/inventory/RedRoverChosePlayersInventory.java:129
+msgid "It is not your turn to pick a player!"
+msgstr ""
+
+#: arenapvp/src/main/java/net/badlion/arenapvp/inventory/RedRoverChosePlayersInventory.java:132
+msgid "You are not a captain!"
+msgstr ""
+
+#: arenapvp/src/main/java/net/badlion/arenapvp/inventory/SpectatorInventory.java:59
+#, java-format
+msgid "Teleported to {0}"
+msgstr ""
+
+#: arenapvp/src/main/java/net/badlion/arenapvp/listener/JoinLeaveRespawnListener.java:156
+msgid "Spectator mode enabled. Use /sp [player] to teleport to a player."
+msgstr ""
+
+#: arenapvp/src/main/java/net/badlion/arenapvp/listener/MatchListener.java:86
+msgid "Crafting items is not allowed!"
+msgstr ""
+
+#: arenapvp/src/main/java/net/badlion/arenapvp/listener/SpectatorListener.java:100
+msgid "Please wait to use these items."
+msgstr ""
+
+#: arenapvp/src/main/java/net/badlion/arenapvp/listener/SpectatorListener.java:119
+msgid "No free space found"
+msgstr ""
+
+#: arenapvp/src/main/java/net/badlion/arenapvp/listener/SpectatorListener.java:129
+msgid "No block found in sight"
+msgstr ""
+
+#: arenapvp/src/main/java/net/badlion/arenapvp/listener/SpectatorListener.java:154
+#, java-format
+msgid "Please wait {0} seconds to use this again."
+msgstr ""
+
+#: arenapvp/src/main/java/net/badlion/arenapvp/listener/SpectatorListener.java:167
+msgid "Colored team armor is now disabled."
+msgstr ""
+
+#: arenapvp/src/main/java/net/badlion/arenapvp/listener/SpectatorListener.java:171
+msgid "Colored team armor is now enabled."
+msgstr ""
+
+#: arenapvp/src/main/java/net/badlion/arenapvp/listener/SpectatorListener.java:183
+msgid "Leaving spectator mode."
+msgstr ""
+
+#: arenapvp/src/main/java/net/badlion/arenapvp/listener/rulesets/AdvancedUHCListener.java:42
+#, java-format
+msgid "{0} is now at {1}"
+msgstr ""
+
+#: arenapvp/src/main/java/net/badlion/arenapvp/listener/rulesets/ArcherListener.java:160
+msgid "Cannot punch other players while in archer."
+msgstr ""
+
+#: arenapvp/src/main/java/net/badlion/arenapvp/listener/rulesets/BuildUHCListener.java:84
+#: arenapvp/src/main/java/net/badlion/arenapvp/listener/rulesets/ComboBuildUHCListener.java:132
+#: arenapvp/src/main/java/net/badlion/arenapvp/listener/rulesets/IronBuildUHCListener.java:85
+msgid "You can't take that!"
+msgstr ""
+
+#: arenapvp/src/main/java/net/badlion/arenapvp/listener/rulesets/BuildUHCListener.java:123
+#: arenapvp/src/main/java/net/badlion/arenapvp/listener/rulesets/ComboBuildUHCListener.java:171
+#: arenapvp/src/main/java/net/badlion/arenapvp/listener/rulesets/IronBuildUHCListener.java:125
+msgid "You're not allowed to break this block!"
+msgstr ""
+
+#: arenapvp/src/main/java/net/badlion/arenapvp/listener/rulesets/BuildUHCListener.java:154
+#: arenapvp/src/main/java/net/badlion/arenapvp/listener/rulesets/ComboBuildUHCListener.java:202
+#: arenapvp/src/main/java/net/badlion/arenapvp/listener/rulesets/IronBuildUHCListener.java:157
+msgid "Block glitching is not allowed!"
+msgstr ""
+
+#: arenapvp/src/main/java/net/badlion/arenapvp/listener/rulesets/BuildUHCListener.java:188
+msgid "Water and lava glitching is not allowed!"
+msgstr ""
+
+#: arenapvp/src/main/java/net/badlion/arenapvp/listener/rulesets/ComboBuildUHCListener.java:236
+#: arenapvp/src/main/java/net/badlion/arenapvp/listener/rulesets/IronBuildUHCListener.java:191
+msgid "Water glitching is not allowed!"
+msgstr ""
+
+#: arenapvp/src/main/java/net/badlion/arenapvp/manager/MatchManager.java:343
+msgid ""
+"One of the players in your match is not online, wait for them to join back. "
+"The match will tie in 30 seconds."
+msgstr ""
+
+#: arenapvp/src/main/java/net/badlion/arenapvp/matchmaking/Match.java:440
+#: arenapvp/src/main/java/net/badlion/arenapvp/matchmaking/Match.java:449
+#: arenapvp/src/main/java/net/badlion/arenapvp/matchmaking/RedRoverBattle.java:463
+#: arenapvp/src/main/java/net/badlion/arenapvp/matchmaking/RedRoverBattle.java:472
+msgid ""
+"You failed to pick a custom kit, and you have not saved any custom kits yet. "
+"Here is a cookie."
+msgstr ""
+
+#: arenapvp/src/main/java/net/badlion/arenapvp/matchmaking/Match.java:814
+#: arenapvp/src/main/java/net/badlion/arenapvp/matchmaking/Match.java:815
+#, java-format
+msgid "Now in match against {0} with kit {1}"
+msgstr ""
+
+#: arenapvp/src/main/java/net/badlion/arenapvp/matchmaking/RedRoverBattle.java:322
+#: arenapvp/src/main/java/net/badlion/arenapvp/matchmaking/RedRoverBattle.java:340
+#: arenapvp/src/main/java/net/badlion/arenapvp/matchmaking/RedRoverBattle.java:920
+msgid "Select your next fighter."
+msgstr ""
+
+#: arenapvp/src/main/java/net/badlion/arenapvp/matchmaking/RedRoverBattle.java:332
+#: arenapvp/src/main/java/net/badlion/arenapvp/matchmaking/RedRoverBattle.java:350
+msgid "Your fighter is still alive, you can not chose a player this round."
+msgstr ""
+
+#: arenapvp/src/main/java/net/badlion/arenapvp/state/FollowState.java:73
+#, java-format
+msgid "{0} has logged off. You are no longer following this player."
+msgstr ""
+
+#: arenapvp/src/main/java/net/badlion/arenapvp/state/RedRoverWaitingState.java:27
+msgid "You are now in a red rover"
+msgstr ""
+
+#: auction/src/main/java/net/badlion/auction/commands/AuctionCommand.java:327
+msgid "Please enter a valid bid (number)."
+msgstr ""
+
+#: auction/src/main/java/net/badlion/auction/commands/AuctionCommand.java:333
+msgid "No item currently up for auction."
+msgstr ""
+
+#: auction/src/main/java/net/badlion/auction/commands/AuctionCommand.java:339
+msgid "Cannot bid on your own item."
+msgstr ""
+
+#: auction/src/main/java/net/badlion/auction/commands/AuctionCommand.java:345
+#, java-format
+msgid "Did not bid enough. Must bid at least {0}"
+msgstr ""
+
+#: auction/src/main/java/net/badlion/auction/commands/AuctionCommand.java:351
+msgid "You do not have enough money to place this bid."
+msgstr ""
+
+#: auction/src/main/java/net/badlion/auction/commands/AuctionCommand.java:361
+msgid "You cannot bid on an item sold by a member of your faction."
+msgstr ""
+
+#: auction/src/main/java/net/badlion/auction/commands/AuctionCommand.java:544
+msgid ""
+"Your inventory is full right now. Claim items when you have room to put them "
+"in your inventory."
+msgstr ""
+
+#: auction/src/main/java/net/badlion/auction/commands/AuctionCommand.java:558
+msgid "You have no items to claim in the Auction House."
+msgstr ""
+
+#: auction/src/main/java/net/badlion/auction/commands/AuctionCommand.java:593
+msgid ""
+"You do not have space right now for this item. Use \"/auction claim\" to "
+"retrieve your item later."
+msgstr ""
+
+#: auction/src/main/java/net/badlion/auction/commands/AuctionCommand.java:596
+msgid ""
+"You have cancelled the auction for one of your items (whichever was put up "
+"for sale first)."
+msgstr ""
+
+#: auction/src/main/java/net/badlion/auction/commands/AuctionCommand.java:599
+msgid ""
+"You do not have any items in the auction house to cancel. You cannot cancel "
+"an item once it has gone up for auction."
+msgstr ""
+
+#: classes/cubecore_classes.java:25 classes/cubecore_classes.java:31
+#: classes/cubecore_classes.java:35
+#, java-format
+msgid "Archer hit: {0} block shot!"
+msgstr ""
+
+#: classes/cubecore_classes.java:94
+#, java-format
+msgid "Backstabbed {0}"
+msgstr ""
+
+#: classes/cubecore_classes.java:102
+#, java-format
+msgid "Rouge backstab cooldown: {0}"
+msgstr ""
+
+#: classes/cubecore_classes.java:107
+msgid "Failed to Backstab"
+msgstr ""
+
+#: classes/src/main/java/net/kohi/classes/listener/SugarListener.java:83
+#, java-format
+msgid "Sugar cooldown: {0}"
+msgstr ""
+
+#: classes/src/main/java/net/kohi/classes/playerclass/BardClass.java:99
+#, java-format
+msgid "Bard warmup: {0}s"
+msgstr ""
+
+#: classes/src/main/java/net/kohi/classes/playerclass/BardClass.java:170
+msgid "You can not bard while on a horse."
+msgstr ""
+
+#: classes/src/main/java/net/kohi/classes/playerclass/BardClass.java:178
+msgid "You can not bard from inside of spawn."
+msgstr ""
+
+#: classes/src/main/java/net/kohi/classes/playerclass/BardClass.java:185
+#, java-format
+msgid "Bard Warmup: {0}"
+msgstr ""
+
+#: classes/src/main/java/net/kohi/classes/playerclass/BardClass.java:190
+#, java-format
+msgid "Bard Cooldown: {0}"
+msgstr ""
+
+#: classes/src/main/java/net/kohi/classes/playerclass/RogueClass.java:72
+#: classes/src/main/java/net/kohi/classes/playerclass/RogueClass.java:85
+msgid "Backstab failed."
+msgstr ""
+
+#: classes/src/main/java/net/kohi/classes/playerclass/RogueClass.java:89
+#, java-format
+msgid "Backstabbed {0}."
+msgstr ""
+
+#: classes/src/main/java/net/kohi/classes/playerclass/bard/EffectEnemyNearby.java:33
+#: classes/src/main/java/net/kohi/classes/playerclass/bard/EffectFriendlyNearby.java:34
+#, java-format
+msgid "You cast {0} on {1}"
+msgstr ""
+
+#: classes/src/main/java/net/kohi/classes/task/PlayerTickTask.java:39
+#, java-format
+msgid "{0} class activated."
+msgstr ""
+
+#: classes/src/main/java/net/kohi/classes/task/PlayerTickTask.java:47
+msgid " class deactivated."
+msgstr ""
+
+#: cmdsigns/src/main/java/net/badlion/cmdsigns/CmdSignListener.java:49
+#, java-format
+msgid "{0}Not allowed to use signs in spectator mode."
+msgstr ""
+
+#: cmdsigns/src/main/java/net/badlion/cmdsigns/CmdSignListener.java:64
+#, java-format
+msgid "{0}Stop spamming signs.  Wait a bit longer inbetween clicks."
+msgstr ""
+
+#: cmdsigns/src/main/java/net/badlion/cmdsigns/CmdSignListener.java:79
+#, java-format
+msgid "{0}This is a donator feature only.  Donate today at www.badlion.net"
+msgstr ""
+
+#: cmdsigns/src/main/java/net/badlion/cmdsigns/CmdSigns.java:121
+#, java-format
+msgid "{0}You do not have permission to use this command."
+msgstr ""
+
+#: colors/src/main/java/net/badlion/colors/ColorCommand.java:18
+#: colors/src/main/java/net/badlion/colors/ColorCommand.java:23
+#: colors/src/main/java/net/badlion/colors/ColorCommand.java:28
+#: colors/src/main/java/net/badlion/colors/ColorCommand.java:33
+#: colors/src/main/java/net/badlion/colors/ColorCommand.java:38
+#: colors/src/main/java/net/badlion/colors/ColorCommand.java:43
+#: colors/src/main/java/net/badlion/colors/ColorCommand.java:48
+#: colors/src/main/java/net/badlion/colors/ColorCommand.java:53
+#: colors/src/main/java/net/badlion/colors/ColorCommand.java:58
+#: colors/src/main/java/net/badlion/colors/ColorCommand.java:63
+#: colors/src/main/java/net/badlion/colors/ColorCommand.java:68
+#: colors/src/main/java/net/badlion/colors/ColorCommand.java:73
+#: colors/src/main/java/net/badlion/colors/ColorCommand.java:78
+#, java-format
+msgid "{0}Name color changed."
+msgstr ""
+
+#: colors/src/main/java/net/badlion/colors/ColorCommand.java:83
+#, java-format
+msgid "{0} Change to color."
+msgstr ""
+
+#: colors/src/main/java/net/badlion/colors/ColorCommand.java:84
+#, java-format
+msgid "{0}Colors: {1}"
+msgstr ""
+
+#: conquest/src/main/java/io/kohi/conquest/listener/PlayerListener.java:58
+#, java-format
+msgid "[Conquest] Lost 20 points because {0} died ({1}/{2})"
+msgstr ""
+
+#: conquest/src/main/java/io/kohi/conquest/type/CapZone.java:84
+#, java-format
+msgid "Your faction is capping the limit of capzones for this phase! ({0})"
+msgstr ""
+
+#: conquest/src/main/java/io/kohi/conquest/type/CapZone.java:91
+#: conquest/src/main/java/io/kohi/conquest/type/HybridCapZone.java:106
+#: conquest/src/main/java/io/kohi/conquest/type/SingleCapZone.java:67
+#, java-format
+msgid "Now controlling {0}"
+msgstr ""
+
+#: conquest/src/main/java/io/kohi/conquest/type/CapZone.java:93
+msgid "Conquest is paused right now..."
+msgstr ""
+
+#: conquest/src/main/java/io/kohi/conquest/type/CapZone.java:111
+#: conquest/src/main/java/io/kohi/conquest/type/HybridCapZone.java:128
+#, java-format
+msgid "Member: {0} is controlling capzone {1}"
+msgstr ""
+
+#: conquest/src/main/java/io/kohi/conquest/type/CapZone.java:118
+#: conquest/src/main/java/io/kohi/conquest/type/CapZone.java:220
+#: conquest/src/main/java/io/kohi/conquest/type/CapZone.java:225
+#: conquest/src/main/java/io/kohi/conquest/type/HybridCapZone.java:135
+#: conquest/src/main/java/io/kohi/conquest/type/HybridCapZone.java:231
+#: conquest/src/main/java/io/kohi/conquest/type/HybridCapZone.java:235
+msgid "You need a faction to capture conquest!"
+msgstr ""
+
+#: conquest/src/main/java/io/kohi/conquest/type/CapZone.java:132
+#: conquest/src/main/java/io/kohi/conquest/type/HybridCapZone.java:148
+#, java-format
+msgid "Member: {0} was knocked off capzone {1}"
+msgstr ""
+
+#: conquest/src/main/java/io/kohi/conquest/type/HybridCapZone.java:102
+msgid "Your faction is already capping another capzone!"
+msgstr ""
+
+#: conquest/src/main/java/io/kohi/conquest/type/HybridCapZone.java:203
+#, java-format
+msgid "Member: {0} is capturing capzone {1}"
+msgstr ""
+
+#: conquest/src/main/java/io/kohi/conquest/type/SingleCapZone.java:83
+#, java-format
+msgid "Member: {0} is controlling Conquest"
+msgstr ""
+
+#: conquest/src/main/java/io/kohi/conquest/type/SingleCapZone.java:178
+#, java-format
+msgid "Member: {0} captured Conquest for your faction!"
+msgstr ""
+
+#: conquest/src/main/java/io/kohi/conquest/util/GiveKeysTask.java:42
+#, java-format
+msgid "Please empty {0} to receive your koth keys."
+msgstr ""
+
+#: cubecore/src/main/java/net/kohi/cubecore/CubecorePlugin.java:162
+msgid "Player only command."
+msgstr ""
+
+#: cubecore/src/main/java/net/kohi/cubecore/command/SquadCommand.java:43
+#: cubecore/src/main/java/net/kohi/cubecore/command/SquadSubCommands.java:207
+msgid "You are not in a squad."
+msgstr ""
+
+#: cubecore/src/main/java/net/kohi/cubecore/command/SquadSubCommands.java:46
+msgid "Squad created!"
+msgstr ""
+
+#: cubecore/src/main/java/net/kohi/cubecore/command/SquadSubCommands.java:128
+#, java-format
+msgid "Removed invite for {0}"
+msgstr ""
+
+#: cubecore/src/main/java/net/kohi/cubecore/command/SquadSubCommands.java:129
+#, java-format
+msgid "You have be uninvited from {0}'s squad."
+msgstr ""
+
+#: cubecore/src/main/java/net/kohi/cubecore/command/SquadSubCommands.java:187
+#, java-format
+msgid "There are {0} squads right now."
+msgstr ""
+
+#: cubecore/src/main/java/net/kohi/cubecore/listener/BlockListener.java:18
+msgid "You can not build this high up."
+msgstr ""
+
+#: cubecore/src/main/java/net/kohi/cubecore/listener/JoinLeaveRespawnListener.java:46
+msgid "Kit "
+msgstr ""
+
+#: cubecore/src/main/java/net/kohi/cubecore/listener/JoinLeaveRespawnListener.java:49
+msgid "No Default kit saved!"
+msgstr ""
+
+#: cubecore/src/main/java/net/kohi/cubecore/listener/PlayerListener.java:71
+#, java-format
+msgid "You can not hurt {0}"
+msgstr ""
+
+#: cubecore/src/main/java/net/kohi/cubecore/listener/PlayerListener.java:143
+#, java-format
+msgid "Name Chosen: {0}"
+msgstr ""
+
+#: cubecore/src/main/java/net/kohi/cubecore/listener/PlayerListener.java:147
+#, java-format
+msgid "Generating random name... {0}"
+msgstr ""
+
+#: cubecore/src/main/java/net/kohi/cubecore/listener/PlayerListener.java:156
+#, java-format
+msgid "You must wait {0} seconds before you can use this."
+msgstr ""
+
+#: cubecore/src/main/java/net/kohi/cubecore/menu/user/ItemMenu.java:60
+msgid "Equiped ROGUE armor."
+msgstr ""
+
+#: cubecore/src/main/java/net/kohi/cubecore/menu/user/ItemMenu.java:68
+msgid "Equiped DIAMOND armor."
+msgstr ""
+
+#: cubecore/src/main/java/net/kohi/cubecore/menu/user/ItemMenu.java:76
+msgid "Equiped ARCHER armor."
+msgstr ""
+
+#: cubecore/src/main/java/net/kohi/cubecore/menu/user/ItemMenu.java:84
+msgid "Equiped BARD armor."
+msgstr ""
+
+#: cubecore/src/main/java/net/kohi/cubecore/menu/user/KitSaveLoad.java:84
+#, java-format
+msgid "Kit {0} saved!"
+msgstr ""
+
+#: cubecore/src/main/java/net/kohi/cubecore/menu/user/KitSaveLoad.java:92
+#, java-format
+msgid "Kit {0} loaded!"
+msgstr ""
+
+#: cubecore/src/main/java/net/kohi/cubecore/menu/user/KitSaveLoad.java:95
+msgid "No kit saved!"
+msgstr ""
+
+#: cubecore/src/main/java/net/kohi/cubecore/menu/user/KitSaveLoad.java:101
+#, java-format
+msgid "Kit {0} deleted!"
+msgstr ""
+
+#: cubecore/src/main/java/net/kohi/cubecore/smellychat/CubecoreChannelHandler.java:17
+#: factionchat/src/main/java/net/badlion/factionchat/FactionChannelHandler.java:41
+msgid "Global chat is disabled"
+msgstr ""
+
+#: cubecore/src/main/java/net/kohi/cubecore/type/Squad.java:95
+#, java-format
+msgid "Leader: {0}"
+msgstr ""
+
+#: cubecore/src/main/java/net/kohi/cubecore/type/Squad.java:97
+#, java-format
+msgid "Players: {0}"
+msgstr ""
+
+#: cubecore/src/main/java/net/kohi/cubecore/type/Squad.java:99
+#: cubecore/src/main/java/net/kohi/cubecore/type/Squad.java:109
+#, java-format
+msgid "Members: {0}"
+msgstr ""
+
+#: enderpearlcd/src/main/java/net/badlion/enderpearlcd/EnderPearlCDListener.java:46
+#, java-format
+msgid "{0}Enderpearl cooldown remaining: {0} seconds."
+msgstr ""
+
+#: essentials/src/main/java/net/badlion/essentials/commands/home/DeleteHomeCommand.java:30
+#, java-format
+msgid "{0}Home has been deleted"
+msgstr ""
+
+#: essentials/src/main/java/net/badlion/essentials/commands/home/DeleteHomeCommand.java:32
+#, java-format
+msgid "{0}No home exists"
+msgstr ""
+
+#: essentials/src/main/java/net/badlion/essentials/commands/home/HomeCommand.java:30
+#, java-format
+msgid "{0}You have no homes"
+msgstr ""
+
+#: essentials/src/main/java/net/badlion/essentials/commands/home/HomeCommand.java:32
+#, java-format
+msgid "{0}Your homes: {1}"
+msgstr ""
+
+#: essentials/src/main/java/net/badlion/essentials/commands/home/HomeCommand.java:41
+#: essentials/src/main/java/net/badlion/essentials/commands/home/HomeCommand.java:63
+#, java-format
+msgid ""
+"{0}Either no home exists or it is not available right now (world not loaded)"
+msgstr ""
+
+#: essentials/src/main/java/net/badlion/essentials/commands/home/HomeCommand.java:46
+#: essentials/src/main/java/net/badlion/essentials/commands/home/HomeCommand.java:68
+#: essentials/src/main/java/net/badlion/essentials/commands/warp/WarpCommand.java:44
+#, java-format
+msgid "{0}Woosh"
+msgstr ""
+
+#: essentials/src/main/java/net/badlion/essentials/commands/home/HomeCommand.java:57
+#: essentials/src/main/java/net/badlion/essentials/commands/home/ListHomesCommand.java:29
+#, java-format
+msgid "{0}Player could not be found"
+msgstr ""
+
+#: essentials/src/main/java/net/badlion/essentials/commands/home/ListHomesCommand.java:35
+#, java-format
+msgid "{0}This player has no homes"
+msgstr ""
+
+#: essentials/src/main/java/net/badlion/essentials/commands/home/ListHomesCommand.java:37
+#, java-format
+msgid "{0}'s homes: {1}"
+msgstr ""
+
+#: essentials/src/main/java/net/badlion/essentials/commands/home/SetHomeCommand.java:25
+#, java-format
+msgid "{0}Home added/updated"
+msgstr ""
+
+#: essentials/src/main/java/net/badlion/essentials/commands/warp/WarpCommand.java:28
+#, java-format
+msgid "{0}No warps set"
+msgstr ""
+
+#: essentials/src/main/java/net/badlion/essentials/commands/warp/WarpCommand.java:30
+#, java-format
+msgid "{0}All available warps: {1}"
+msgstr ""
+
+#: essentials/src/main/java/net/badlion/essentials/commands/warp/WarpCommand.java:39
+#, java-format
+msgid ""
+"{0}Either no warp exists or it is not available right now (world not loaded)"
+msgstr ""
+
+#: factionchat/src/main/java/net/badlion/factionchat/AliasCommand.java:21
+#: factionchat/src/main/java/net/badlion/factionchat/CommandListener.java:19
+#: factionchat/src/main/java/net/badlion/factionchat/FactionChannelHandler.java:23
+#: kfactions/src/main/java/com/massivecraft/factions/cmd/chat/FactionChatAliasCommand.java:24
+msgid "You are not in a faction!"
+msgstr ""
+
+#: gcheat/src/main/java/net/badlion/gcheat/listeners/BlockGlitchListener.java:41
+#: gcheat/src/main/java/net/badlion/gcheat/listeners/BlockGlitchListener.java:73
+#: gcheat/src/main/java/net/badlion/gcheat/listeners/BlockGlitchListener.java:84
+#, java-format
+msgid "{0}Block glitching is not allowed!"
+msgstr ""
+
+#: gfactions/src/main/java/net/badlion/gfactions/commands/AppleTimerCommand.java:30
+#, java-format
+msgid "You cannot consume another god apple for {0} seconds."
+msgstr ""
+
+#: gfactions/src/main/java/net/badlion/gfactions/commands/AppleTimerCommand.java:32
+#, java-format
+msgid "You cannot consume another god apple for {0} minutes."
+msgstr ""
+
+#: gfactions/src/main/java/net/badlion/gfactions/commands/AppleTimerCommand.java:35
+msgid "You can consume another god apple!"
+msgstr ""
+
+#: gfactions/src/main/java/net/badlion/gfactions/commands/DeEnchantCommand.java:28
+msgid "Cannot use /deenchant when in combat."
+msgstr ""
+
+#: gfactions/src/main/java/net/badlion/gfactions/commands/DeEnchantCommand.java:34
+msgid "You can not use this command while tagged for Man Hunt!"
+msgstr ""
+
+#: gfactions/src/main/java/net/badlion/gfactions/commands/DeEnchantCommand.java:49
+msgid "Item successfully de-enchanted."
+msgstr ""
+
+#: gfactions/src/main/java/net/badlion/gfactions/commands/GiftLivesCommand.java:20
+#, java-format
+msgid "{0}Usage: {1}"
+msgstr ""
+
+#: gfactions/src/main/java/net/badlion/gfactions/commands/GiftLivesCommand.java:46
+#: gfactions/src/main/java/net/badlion/gfactions/commands/GiftLivesCommand.java:68
+#: kfactions/src/main/java/com/massivecraft/factions/cmd/deathban/GiftLivesCommand.java:43
+#: kfactions/src/main/java/com/massivecraft/factions/cmd/deathban/GiftLivesCommand.java:65
+msgid "You have no lives to gift :("
+msgstr ""
+
+#: gfactions/src/main/java/net/badlion/gfactions/commands/GiftLivesCommand.java:49
+#: gfactions/src/main/java/net/badlion/gfactions/commands/GiftLivesCommand.java:71
+msgid "You do not have enough lives to gift. You only have "
+msgstr ""
+
+#: gfactions/src/main/java/net/badlion/gfactions/commands/GiftLivesCommand.java:58
+#: kfactions/src/main/java/com/massivecraft/factions/cmd/deathban/GiftLivesCommand.java:55
+#, java-format
+msgid "Could not find player {0}"
+msgstr ""
+
+#: gfactions/src/main/java/net/badlion/gfactions/commands/GiftLivesCommand.java:79
+msgid "You have given "
+msgstr ""
+
+#: gfactions/src/main/java/net/badlion/gfactions/commands/LivesCommand.java:38
+msgid "You currently have "
+msgstr ""
+
+#: gfactions/src/main/java/net/badlion/gfactions/commands/LivesCommand.java:39
+msgid "It takes a total of "
+msgstr ""
+
+#: gfactions/src/main/java/net/badlion/gfactions/commands/PVPCommand.java:31
+#: gfactions/src/main/java/net/badlion/gfactions/commands/PVPCommand.java:50
+#: gfactions/src/main/java/net/badlion/gfactions/commands/PVPTimerCommand.java:61
+#: gfactions/src/main/java/net/badlion/gfactions/commands/PVPTimerCommand.java:80
+msgid "No PVP Protection Time Remaining."
+msgstr ""
+
+#: gfactions/src/main/java/net/badlion/gfactions/commands/PVPCommand.java:46
+#: gfactions/src/main/java/net/badlion/gfactions/commands/PVPTimerCommand.java:76
+#, java-format
+msgid "PVP Protection Remaining: {0} minutes and {1} seconds."
+msgstr ""
+
+#: gfactions/src/main/java/net/badlion/gfactions/commands/PVPCommand.java:61
+#: gfactions/src/main/java/net/badlion/gfactions/commands/PVPTimerCommand.java:91
+msgid "You have enabled PVP."
+msgstr ""
+
+#: gfactions/src/main/java/net/badlion/gfactions/commands/PVPCommand.java:68
+#: gfactions/src/main/java/net/badlion/gfactions/commands/PVPTimerCommand.java:98
+msgid "PVP is already enabled."
+msgstr ""
+
+#: gfactions/src/main/java/net/badlion/gfactions/commands/PVPCommand.java:71
+#: gfactions/src/main/java/net/badlion/gfactions/commands/PVPCommand.java:74
+msgid ""
+"\"/pvp time\" for pvp protection time remaining.  \"/pvp on\" to disable pvp "
+"protection (cannot renable)."
+msgstr ""
+
+#: gfactions/src/main/java/net/badlion/gfactions/commands/PVPTimerCommand.java:101
+#: gfactions/src/main/java/net/badlion/gfactions/commands/PVPTimerCommand.java:106
+msgid "===PvPTimer Help==="
+msgstr ""
+
+#: gfactions/src/main/java/net/badlion/gfactions/commands/PVPTimerCommand.java:102
+#: gfactions/src/main/java/net/badlion/gfactions/commands/PVPTimerCommand.java:107
+msgid "/pvptimer remove"
+msgstr ""
+
+#: gfactions/src/main/java/net/badlion/gfactions/commands/PVPTimerCommand.java:103
+#: gfactions/src/main/java/net/badlion/gfactions/commands/PVPTimerCommand.java:108
+msgid "/pvptimer check"
+msgstr ""
+
+#: gfactions/src/main/java/net/badlion/gfactions/commands/SeenCommand.java:53
+#: gfactions/src/main/java/net/badlion/gfactions/commands/TopVotersCommand.java:37
+#, java-format
+msgid "{0}"
+msgstr ""
+
+#: gfactions/src/main/java/net/badlion/gfactions/commands/SeenCommand.java:55
+#, java-format
+msgid "Could not find {0}"
+msgstr ""
+
+#: gfactions/src/main/java/net/badlion/gfactions/commands/SlotCommand.java:36
+#, java-format
+msgid "Removed {0} from reserved slots."
+msgstr ""
+
+#: gfactions/src/main/java/net/badlion/gfactions/commands/SlotCommand.java:38
+msgid "Cannot remove player when they are online."
+msgstr ""
+
+#: gfactions/src/main/java/net/badlion/gfactions/commands/SlotCommand.java:42
+#: gfactions/src/main/java/net/badlion/gfactions/commands/SlotCommand.java:51
+#, java-format
+msgid "Added {0} to your reserved slots."
+msgstr ""
+
+#: gfactions/src/main/java/net/badlion/gfactions/commands/SlotCommand.java:44
+msgid ""
+"You cannot add another player to your reserved slots before removing another."
+msgstr ""
+
+#: gfactions/src/main/java/net/badlion/gfactions/commands/StuckCommand.java:28
+msgid "You are in the process of being teleported, please wait!"
+msgstr ""
+
+#: gfactions/src/main/java/net/badlion/gfactions/commands/StuckCommand.java:30
+msgid "Teleportation will commence in "
+msgstr ""
+
+#: gfactions/src/main/java/net/badlion/gfactions/commands/StuckCommand.java:37
+msgid "You are not stuck!"
+msgstr ""
+
+#: gfactions/src/main/java/net/badlion/gfactions/commands/StuckCommand.java:62
+msgid ""
+"You moved in the 3 minute grace period. The teleportation request has been "
+"cancelled."
+msgstr ""
+
+#: gfactions/src/main/java/net/badlion/gfactions/commands/TopVotersCommand.java:31
+msgid "--------------Top Voters of the Month-------------"
+msgstr ""
+
+#: gfactions/src/main/java/net/badlion/gfactions/commands/TopVotersCommand.java:33
+msgid "No voters this month."
+msgstr ""
+
+#: gfactions/src/main/java/net/badlion/gfactions/commands/VoteCommand.java:29
+msgid "Vote on www.badlion.net daily on all 5 sites daily to maximize prizes!"
+msgstr ""
+
+#: gfactions/src/main/java/net/badlion/gfactions/commands/VoteCommand.java:30
+msgid ""
+"Get money for every vote, 2 diamonds, 1 tnt and a chance for bonus prizes:"
+msgstr ""
+
+#: gfactions/src/main/java/net/badlion/gfactions/commands/VoteCommand.java:31
+msgid "1/20 Chance for"
+msgstr ""
+
+#: gfactions/src/main/java/net/badlion/gfactions/commands/VoteCommand.java:32
+msgid "1/50 Chance for"
+msgstr ""
+
+#: gfactions/src/main/java/net/badlion/gfactions/commands/VoteCommand.java:33
+#: gfactions/src/main/java/net/badlion/gfactions/commands/VoteCommand.java:34
+msgid "1/1000 Chance for"
+msgstr ""
+
+#: gfactions/src/main/java/net/badlion/gfactions/commands/VoteCommand.java:35
+msgid "1/2000 Chance for"
+msgstr ""
+
+#: gfactions/src/main/java/net/badlion/gfactions/commands/VoteCommand.java:36
+msgid "1/5000 Chance for"
+msgstr ""
+
+#: gfactions/src/main/java/net/badlion/gfactions/commands/VoteCommand.java:37
+msgid "1/10000 Chance for"
+msgstr ""
+
+#: gfactions/src/main/java/net/badlion/gfactions/commands/events/BloodBowlCommand.java:24
+#: gfactions/src/main/java/net/badlion/gfactions/commands/events/BloodBowlCommand.java:25
+#: gfactions/src/main/java/net/badlion/gfactions/commands/events/BloodBowlCommand.java:26
+#: gfactions/src/main/java/net/badlion/gfactions/commands/events/BloodBowlCommand.java:27
+#: gfactions/src/main/java/net/badlion/gfactions/commands/events/EventsCommand.java:77
+#: gfactions/src/main/java/net/badlion/gfactions/commands/events/EventsCommand.java:78
+#: gfactions/src/main/java/net/badlion/gfactions/commands/events/EventsCommand.java:79
+#: gfactions/src/main/java/net/badlion/gfactions/commands/events/EventsCommand.java:80
+#, java-format
+msgid "There is a BloodBowl portal located at {0}, {1}, {2}"
+msgstr ""
+
+#: gfactions/src/main/java/net/badlion/gfactions/commands/events/BloodBowlCommand.java:29
+msgid "No BloodBowl at the moment."
+msgstr ""
+
+#: gfactions/src/main/java/net/badlion/gfactions/commands/events/EventsCommand.java:32
+#, java-format
+msgid ""
+"The KOTH \"{0}\" is currently going on right now with Cap Zone Location: "
+"({1}, {2}, {3}) to ({4}, {5}, {6})"
+msgstr ""
+
+#: gfactions/src/main/java/net/badlion/gfactions/commands/events/EventsCommand.java:34
+#, java-format
+msgid "A KOTH will be starting within 10 minutes at ({0}, {1}, {2})"
+msgstr ""
+
+#: gfactions/src/main/java/net/badlion/gfactions/commands/events/EventsCommand.java:40
+#, java-format
+msgid "A Dungeon Portal is going to spawn within 10 minutes at: {0}, {1}, {2}"
+msgstr ""
+
+#: gfactions/src/main/java/net/badlion/gfactions/commands/events/EventsCommand.java:43
+#, java-format
+msgid ""
+"There is a Dungeon going on right now with Portal Location: {0}, {1}, {2}"
+msgstr ""
+
+#: gfactions/src/main/java/net/badlion/gfactions/commands/events/EventsCommand.java:59
+#, java-format
+msgid "A Man Hunt has started in the warzone at {0}, {1}, {2}!"
+msgstr ""
+
+#: gfactions/src/main/java/net/badlion/gfactions/commands/events/EventsCommand.java:61
+msgid "- No one has been tagged yet!"
+msgstr ""
+
+#: gfactions/src/main/java/net/badlion/gfactions/commands/events/EventsCommand.java:64
+#, java-format
+msgid "- {0} is tagged and is currently at {1}, {2}, {3}"
+msgstr ""
+
+#: gfactions/src/main/java/net/badlion/gfactions/commands/events/EventsCommand.java:71
+#, java-format
+msgid "There is a parkour chest at {0}, {1}, {2}"
+msgstr ""
+
+#: gfactions/src/main/java/net/badlion/gfactions/commands/events/EventsCommand.java:86
+msgid ""
+"A scavenge event is going on. There are chests scattered in the WarZone full "
+"of loot!"
+msgstr ""
+
+#: gfactions/src/main/java/net/badlion/gfactions/commands/events/EventsCommand.java:92
+msgid "Double ores is active!"
+msgstr ""
+
+#: gfactions/src/main/java/net/badlion/gfactions/commands/events/EventsCommand.java:96
+msgid "No events are currently going on."
+msgstr ""
+
+#: gfactions/src/main/java/net/badlion/gfactions/commands/events/KOTHTimesCommand.java:27
+msgid "Each KOTH happens at a random location at the set times below:"
+msgstr ""
+
+#: gfactions/src/main/java/net/badlion/gfactions/commands/events/KOTHTimesCommand.java:28
+#, java-format
+msgid "Current time - {0}:{1}"
+msgstr ""
+
+#: gfactions/src/main/java/net/badlion/gfactions/events/Tower.java:113
+msgid ""
+"You have been teleported away from the tower because you were too close to "
+"it when it spawned."
+msgstr ""
+
+#: gfactions/src/main/java/net/badlion/gfactions/events/Tower.java:207
+msgid ""
+"You have been teleported away from the tower because either it got captured "
+"or despawned."
+msgstr ""
+
+#: gfactions/src/main/java/net/badlion/gfactions/events/koth/AdvancedKOTHScoreTrackerTask.java:106
+#: gfactions/src/main/java/net/badlion/gfactions/events/koth/KOTHScoreTrackerTask.java:177
+#: gfactions/src/main/java/net/badlion/gfactions/events/koth/KOTHScoreTrackerTask.java:186
+msgid "You are now gaining points for the KOTH."
+msgstr ""
+
+#: gfactions/src/main/java/net/badlion/gfactions/events/koth/EndKOTHTask.java:135
+msgid "Use \"/claim\" to claim your KOTH rewards!"
+msgstr ""
+
+#: gfactions/src/main/java/net/badlion/gfactions/events/koth/KOTHRemoveProtTask.java:50
+msgid "Entered KOTH Zone, lost PVP Protection."
+msgstr ""
+
+#: gfactions/src/main/java/net/badlion/gfactions/events/koth/KOTHScoreTrackerTask.java:163
+msgid "Your PVP protection has been removed because you entered the KOTH Zone!"
+msgstr ""
+
+#: gfactions/src/main/java/net/badlion/gfactions/events/koth/KOTHScoreTrackerTask.java:193
+msgid "You are no longer gaining points for the KOTH."
+msgstr ""
+
+#: gfactions/src/main/java/net/badlion/gfactions/events/koth/KOTHScoreTrackerTask.java:211
+#, java-format
+msgid ""
+"You have lost {0} KOTH point(s). You will lose {1} point(s) every {2} second"
+"(s) for not capping!"
+msgstr ""
+
+#: gfactions/src/main/java/net/badlion/gfactions/events/stronghold/Keep.java:180
+#: gfactions/src/main/java/net/badlion/gfactions/events/stronghold/StrongholdListener.java:122
+msgid "Your faction has paid off all of its deterioration costs for this keep!"
+msgstr ""
+
+#: gfactions/src/main/java/net/badlion/gfactions/events/stronghold/Keep.java:186
+#, java-format
+msgid "{0}Your faction still owes deterioration costs for this keep!"
+msgstr ""
+
+#: gfactions/src/main/java/net/badlion/gfactions/events/stronghold/KeepTrackerTask.java:165
+msgid "You cannot cap the keep if you're not in a faction!"
+msgstr ""
+
+#: gfactions/src/main/java/net/badlion/gfactions/events/stronghold/Stronghold.java:84
+msgid "Your faction has been locked because you own a stronghold keep!"
+msgstr ""
+
+#: gfactions/src/main/java/net/badlion/gfactions/events/stronghold/StrongholdListener.java:57
+msgid "Only the controlling faction of this keep can control the door!"
+msgstr ""
+
+#: gfactions/src/main/java/net/badlion/gfactions/events/stronghold/StrongholdListener.java:62
+msgid "The doors cannot be controlled when the Stronghold Event is running"
+msgstr ""
+
+#: gfactions/src/main/java/net/badlion/gfactions/events/stronghold/StrongholdListener.java:127
+#, java-format
+msgid "{0}Your faction still owes ${1}."
+msgstr ""
+
+#: gfactions/src/main/java/net/badlion/gfactions/events/stronghold/StrongholdListener.java:147
+#: gfactions/src/main/java/net/badlion/gfactions/events/stronghold/StrongholdListener.java:151
+#, java-format
+msgid "You have paid off ${0}."
+msgstr ""
+
+#: gfactions/src/main/java/net/badlion/gfactions/events/stronghold/StrongholdListener.java:221
+#, java-format
+msgid "You have paid off all the {0}."
+msgstr ""
+
+#: gfactions/src/main/java/net/badlion/gfactions/events/stronghold/StrongholdListener.java:223
+#, java-format
+msgid "You have paid off {0} {1}, you still owe {2}."
+msgstr ""
+
+#: gfactions/src/main/java/net/badlion/gfactions/events/stronghold/StrongholdListener.java:260
+msgid "Only the controlling faction can pay their deterioration debt!"
+msgstr ""
+
+#: gfactions/src/main/java/net/badlion/gfactions/events/stronghold/StrongholdListener.java:263
+msgid "Deterioration debt cannot be paid once a stronghold event has started!"
+msgstr ""
+
+#: gfactions/src/main/java/net/badlion/gfactions/listeners/AbuseListener.java:160
+msgid "You have combat logged and been killed as a result."
+msgstr ""
+
+#: gfactions/src/main/java/net/badlion/gfactions/listeners/BloodBowlListener.java:147
+msgid "PVP Protection disabled from entering BloodBowl."
+msgstr ""
+
+#: gfactions/src/main/java/net/badlion/gfactions/listeners/BloodBowlListener.java:154
+#: kevents/src/main/java/net/badlion/kevents/listener/BloodBowlListener.java:61
+msgid "You must be in a faction to enter BloodBowl"
+msgstr ""
+
+#: gfactions/src/main/java/net/badlion/gfactions/listeners/BloodBowlListener.java:184
+#: kevents/src/main/java/net/badlion/kevents/listener/BloodBowlListener.java:91
+msgid "Joined BloodBowl."
+msgstr ""
+
+#: gfactions/src/main/java/net/badlion/gfactions/listeners/BloodBowlListener.java:190
+#: kevents/src/main/java/net/badlion/kevents/listener/BloodBowlListener.java:97
+msgid "There is no BloodBowl going on right now."
+msgstr ""
+
+#: gfactions/src/main/java/net/badlion/gfactions/listeners/CraftListener.java:17
+msgid "You cannot craft enderchests."
+msgstr ""
+
+#: gfactions/src/main/java/net/badlion/gfactions/listeners/CraftListener.java:21
+msgid "You cannot craft hoppers, buy them from spawn."
+msgstr ""
+
+#: gfactions/src/main/java/net/badlion/gfactions/listeners/DungeonListener.java:141
+msgid "PVP Protection disabled from entering Dungeon."
+msgstr ""
+
+#: gfactions/src/main/java/net/badlion/gfactions/listeners/DungeonListener.java:162
+msgid "This dungeon portal is not activated."
+msgstr ""
+
+#: gfactions/src/main/java/net/badlion/gfactions/listeners/EnderPearlCDListener.java:88
+#, java-format
+msgid "Enderpearl cooldown remaining: {0} seconds."
+msgstr ""
+
+#: gfactions/src/main/java/net/badlion/gfactions/listeners/FactionListener.java:43
+msgid "You can only create factions once every hour!"
+msgstr ""
+
+#: gfactions/src/main/java/net/badlion/gfactions/listeners/FactionListener.java:59
+msgid "Cannot claim, some of the land belongs to the server."
+msgstr ""
+
+#: gfactions/src/main/java/net/badlion/gfactions/listeners/FactionListener.java:194
+msgid "You can only rename your faction once every hour!"
+msgstr ""
+
+#: gfactions/src/main/java/net/badlion/gfactions/listeners/GodAppleListener.java:24
+#, java-format
+msgid ""
+"You have already eaten a god apple in the past {0} minutes, you cannot "
+"consume another for 1 minute."
+msgstr ""
+
+#: gfactions/src/main/java/net/badlion/gfactions/listeners/GodAppleListener.java:26
+#, java-format
+msgid ""
+"You have already eaten a god apple in the past {0} minutes, you cannot "
+"consume another for {1} minutes."
+msgstr ""
+
+#: gfactions/src/main/java/net/badlion/gfactions/listeners/GodAppleListener.java:32
+msgid "You have eaten a god apple, you cannot consume another for 30 minutes."
+msgstr ""
+
+#: gfactions/src/main/java/net/badlion/gfactions/listeners/KitListener.java:103
+#: gfactions/src/main/java/net/badlion/gfactions/listeners/KitListener.java:110
+msgid ""
+"This item's enchantments have been reduced to match the map's kit "
+"limitations."
+msgstr ""
+
+#: gfactions/src/main/java/net/badlion/gfactions/listeners/KitListener.java:120
+msgid "This potion is not allowed for this map."
+msgstr ""
+
+#: gfactions/src/main/java/net/badlion/gfactions/listeners/KitListener.java:125
+msgid "Only Poison I (0:33) is allowed."
+msgstr ""
+
+#: gfactions/src/main/java/net/badlion/gfactions/listeners/KitListener.java:130
+msgid "Only Slowness I (1:07) is allowed."
+msgstr ""
+
+#: gfactions/src/main/java/net/badlion/gfactions/listeners/KitListener.java:136
+msgid "God Apples are not permitted."
+msgstr ""
+
+#: gfactions/src/main/java/net/badlion/gfactions/listeners/ManHuntListener.java:71
+msgid ""
+"You are now tagged for Man Hunt! Stay alive for 10 minutes without leaving "
+"the warzone or logging out to get a rare prize!"
+msgstr ""
+
+#: gfactions/src/main/java/net/badlion/gfactions/listeners/ManHuntListener.java:92
+#: kevents/src/main/java/net/badlion/kevents/listener/ManHuntListener.java:156
+msgid "You cannot use enderpearls while tagged for manhunt."
+msgstr ""
+
+#: gfactions/src/main/java/net/badlion/gfactions/listeners/NetherListener.java:43
+msgid "Cannot place spawners in the nether."
+msgstr ""
+
+#: gfactions/src/main/java/net/badlion/gfactions/listeners/NetherListener.java:46
+msgid "Cannot place beds in the nether."
+msgstr ""
+
+#: gfactions/src/main/java/net/badlion/gfactions/listeners/NetherListener.java:81
+msgid "Cannot interact with mob spawners in the nether."
+msgstr ""
+
+#: gfactions/src/main/java/net/badlion/gfactions/listeners/NetherListener.java:138
+msgid "Cannot create a portal to get to the War Zone."
+msgstr ""
+
+#: gfactions/src/main/java/net/badlion/gfactions/listeners/NetherListener.java:153
+msgid "Cannot create a portal that goes into a faction's land from the nether."
+msgstr ""
+
+#: gfactions/src/main/java/net/badlion/gfactions/listeners/PreCommandListener.java:28
+msgid "Read help information at spawn on the signs!"
+msgstr ""
+
+#: gfactions/src/main/java/net/badlion/gfactions/listeners/PreCommandListener.java:32
+msgid "Cannot /f home while in combat."
+msgstr ""
+
+#: gfactions/src/main/java/net/badlion/gfactions/listeners/PreCommandListener.java:35
+msgid "Cannot /f home in The End."
+msgstr ""
+
+#: gfactions/src/main/java/net/badlion/gfactions/listeners/PreCommandListener.java:43
+msgid "You do not have a /f home set. Use /f sethome to set one."
+msgstr ""
+
+#: gfactions/src/main/java/net/badlion/gfactions/listeners/PreCommandListener.java:52
+msgid "Teleporting to your faction home. Do not move for 14 seconds."
+msgstr ""
+
+#: gfactions/src/main/java/net/badlion/gfactions/listeners/PreCommandListener.java:55
+msgid "Teleporting to your faction home. Do not move for 7 seconds."
+msgstr ""
+
+#: gfactions/src/main/java/net/badlion/gfactions/listeners/PunchListener.java:49
+#: gfactions/src/main/java/net/badlion/gfactions/listeners/PunchListener.java:62
+msgid "Punch 2 is disabled on the server. Punch 1 applied instead."
+msgstr ""
+
+#: gfactions/src/main/java/net/badlion/gfactions/listeners/PVPProtectionListener.java:185
+msgid "You have PVP Protection.  You cannot hurt others."
+msgstr ""
+
+#: gfactions/src/main/java/net/badlion/gfactions/listeners/PVPProtectionListener.java:276
+msgid "This player has PVP protection."
+msgstr ""
+
+#: gfactions/src/main/java/net/badlion/gfactions/listeners/PVPProtectionListener.java:320
+msgid "Cannot attack others with pvp protection on."
+msgstr ""
+
+#: gfactions/src/main/java/net/badlion/gfactions/listeners/PVPProtectionListener.java:414
+msgid "Cannot break this when you have pvp protection on."
+msgstr ""
+
+#: gfactions/src/main/java/net/badlion/gfactions/listeners/RenameSwordListener.java:28
+msgid "Item renamed due to illegal characters in it."
+msgstr ""
+
+#: gfactions/src/main/java/net/badlion/gfactions/listeners/SpawnListener.java:153
+msgid "Cannot pearl into spawn."
+msgstr ""
+
+#: gfactions/src/main/java/net/badlion/gfactions/listeners/SpawnListener.java:156
+msgid "Cannot pearl into end portal area."
+msgstr ""
+
+#: gfactions/src/main/java/net/badlion/gfactions/listeners/SpawnListener.java:174
+msgid "Cannot use this in spawn."
+msgstr ""
+
+#: gfactions/src/main/java/net/badlion/gfactions/listeners/SpawnTagListener.java:34
+msgid ""
+"Cannot enter spawn when combat tagged.  Use /ct to see how much time you "
+"have left."
+msgstr ""
+
+#: gfactions/src/main/java/net/badlion/gfactions/listeners/TowerListener.java:63
+#: gfactions/src/main/java/net/badlion/gfactions/listeners/TowerListener.java:66
+#: gfactions/src/main/java/net/badlion/gfactions/listeners/TowerListener.java:69
+msgid "You have been "
+msgstr ""
+
+#: gfactions/src/main/java/net/badlion/gfactions/listeners/TowerListener.java:115
+msgid "Use \"/claim\" to claim your Insanity Tower rewards!"
+msgstr ""
+
+#: gfactions/src/main/java/net/badlion/gfactions/listeners/TrappedPortalListener.java:33
+#: gfactions/src/main/java/net/badlion/gfactions/tasks/TrappedPortalTask.java:36
+msgid ""
+"The server has detected a possible trapped portal, you have been teleported "
+"to spawn."
+msgstr ""
+
+#: gfactions/src/main/java/net/badlion/gfactions/listeners/VillagerListener.java:24
+msgid "Cannot interact with villagers."
+msgstr ""
+
+#: gfactions/src/main/java/net/badlion/gfactions/listeners/VoteListener.java:146
+msgid "You have won a god item from voting!"
+msgstr ""
+
+#: gfactions/src/main/java/net/badlion/gfactions/listeners/VoteListener.java:152
+msgid " has won a god item from voting!"
+msgstr ""
+
+#: gfactions/src/main/java/net/badlion/gfactions/listeners/VoteListener.java:174
+msgid "You have won a Protection IV diamond set from voting!"
+msgstr ""
+
+#: gfactions/src/main/java/net/badlion/gfactions/listeners/VoteListener.java:180
+msgid " has won a Protection IV diamond set from voting!"
+msgstr ""
+
+#: gfactions/src/main/java/net/badlion/gfactions/listeners/VoteListener.java:200
+msgid "You have won 5 extra loot items from voting!"
+msgstr ""
+
+#: gfactions/src/main/java/net/badlion/gfactions/listeners/VoteListener.java:206
+msgid " has won 5 extra loot items from voting!"
+msgstr ""
+
+#: gfactions/src/main/java/net/badlion/gfactions/listeners/VoteListener.java:217
+msgid "You have won a Sharpness V book from voting!"
+msgstr ""
+
+#: gfactions/src/main/java/net/badlion/gfactions/listeners/VoteListener.java:223
+msgid " has won a Sharpness V book from voting!"
+msgstr ""
+
+#: gfactions/src/main/java/net/badlion/gfactions/listeners/VoteListener.java:234
+msgid "You have won a Protection IV book from voting!"
+msgstr ""
+
+#: gfactions/src/main/java/net/badlion/gfactions/listeners/VoteListener.java:240
+msgid " has won a Protection IV book from voting!"
+msgstr ""
+
+#: gfactions/src/main/java/net/badlion/gfactions/listeners/VoteListener.java:247
+msgid "You have won 64 EXP bottles from voting!"
+msgstr ""
+
+#: gfactions/src/main/java/net/badlion/gfactions/listeners/VoteListener.java:253
+msgid " has won 64 EXP bottles from voting!"
+msgstr ""
+
+#: gfactions/src/main/java/net/badlion/gfactions/listeners/VoteListener.java:265
+msgid "You have won $2,500 from voting!"
+msgstr ""
+
+#: gfactions/src/main/java/net/badlion/gfactions/listeners/VoteListener.java:271
+msgid " has won $2,500 from voting!"
+msgstr ""
+
+#: gfactions/src/main/java/net/badlion/gfactions/listeners/VoteListener.java:297
+msgid "Thank you for voting and supporting the server!"
+msgstr ""
+
+#: gfactions/src/main/java/net/badlion/gfactions/listeners/VoteListener.java:298
+msgid "Use /claim to retrieve your loot items."
+msgstr ""
+
+#: gfactions/src/main/java/net/badlion/gfactions/listeners/VoteListener.java:412
+msgid "You have items to claim from voting! Use "
+msgstr ""
+
+#: gfactions/src/main/java/net/badlion/gfactions/tasks/EndTagTask.java:40
+msgid ""
+"Cannot enter end portal region when combat tagged.  Use /ct to see how much "
+"time you have left."
+msgstr ""
+
+#: gfactions/src/main/java/net/badlion/gfactions/tasks/FHomeTeleportTask.java:100
+msgid ""
+"You moved in the grace period. The teleportation request has been cancelled."
+msgstr ""
+
+#: gfactions/src/main/java/net/badlion/gfactions/tasks/FHomeTeleportTask.java:104
+#: gfactions/src/main/java/net/badlion/gfactions/tasks/WarpTask.java:82
+msgid ""
+"You have been combat tagged. The teleportation request has been cancelled."
+msgstr ""
+
+#: gfactions/src/main/java/net/badlion/gfactions/tasks/IllegalNetherLocationTask.java:21
+msgid "You are not allowed to be above the nether."
+msgstr ""
+
+#: gfactions/src/main/java/net/badlion/gfactions/tasks/RemoveProtectionTask.java:44
+msgid ""
+"You have entered a faction's land.  Your PVP Protection has been removed."
+msgstr ""
+
+#: gfactions/src/main/java/net/badlion/gfactions/tasks/SpawnTagTask.java:38
+msgid "Cannot enter spawn when combat tagged."
+msgstr ""
+
+#: gfactions/src/main/java/net/badlion/gfactions/tasks/WarpTask.java:78
+msgid ""
+"You moved in the 7 second grace period. The teleportation request has been "
+"cancelled."
+msgstr ""
+
+#: gfactions/src/main/java/net/badlion/gfactions/tasks/bloodbowl/BloodBowlScoreTrackerTask.java:178
+msgid "Your PVP protection has been removed because you entered the Bloodbowl!"
+msgstr ""
+
+#: gfactions/src/main/java/net/badlion/gfactions/tasks/dungeon/DungeonDamageTask.java:30
+msgid "No trying to cheat the domage. POW"
+msgstr ""
+
+#: gfactions/src/main/java/net/badlion/gfactions/tasks/manhunt/ManHuntBoundsCheckerTask.java:36
+#: kevents/src/main/java/net/badlion/kevents/task/ManHuntBoundsCheckerTask.java:53
+msgid "Cannot leave warzone when tagged for Man Hunt"
+msgstr ""
+
+#: gfactions/src/main/java/net/badlion/gfactions/tasks/manhunt/ManHuntBoundsCheckerTask.java:40
+#: kevents/src/main/java/net/badlion/kevents/task/ManHuntBoundsCheckerTask.java:44
+#: kevents/src/main/java/net/badlion/kevents/task/ManHuntBoundsCheckerTask.java:57
+msgid ""
+"You have to remain in the warzone, you have been teleported to the starting "
+"point"
+msgstr ""
+
+#: horse/src/main/java/io/kohi/horsearmor/commands/HorseSubCommands.java:45
+msgid "Here is a horse upgrade"
+msgstr ""
+
+#: horse/src/main/java/io/kohi/horsearmor/commands/HorseSubCommands.java:59
+msgid "Here is a horse stats thing"
+msgstr ""
+
+#: horse/src/main/java/io/kohi/horsearmor/commands/HorseSubCommands.java:81
+#, java-format
+msgid "Horse owner set to {0}"
+msgstr ""
+
+#: horse/src/main/java/io/kohi/horsearmor/commands/HorseSubCommands.java:83
+#: horse/src/main/java/io/kohi/horsearmor/commands/HorseSubCommands.java:86
+msgid "ERROR: Player not online"
+msgstr ""
+
+#: horse/src/main/java/io/kohi/horsearmor/commands/HorseSubCommands.java:89
+msgid "ERROR: Horse must be tamed!"
+msgstr ""
+
+#: horse/src/main/java/io/kohi/horsearmor/commands/HorseSubCommands.java:92
+#: horse/src/main/java/io/kohi/horsearmor/commands/HorseSubCommands.java:95
+msgid "ERROR: You must be on a horse!"
+msgstr ""
+
+#: horse/src/main/java/io/kohi/horsearmor/listeners/EntityInteractListener.java:31
+#, java-format
+msgid "That horse belongs to {0}"
+msgstr ""
+
+#: horse/src/main/java/io/kohi/horsearmor/listeners/EntityInteractListener.java:38
+#: horse/src/main/java/io/kohi/horsearmor/listeners/EntityListener.java:54
+msgid "You can not feed your horse to heal it, use health potions!"
+msgstr ""
+
+#: horse/src/main/java/io/kohi/horsearmor/listeners/EntityInteractListener.java:55
+msgid "Un-stack the horse upgrade before you use it."
+msgstr ""
+
+#: horse/src/main/java/io/kohi/horsearmor/listeners/EntityInteractListener.java:60
+msgid "Your horse can not be faster than it's current speed!"
+msgstr ""
+
+#: horse/src/main/java/io/kohi/horsearmor/listeners/EntityInteractListener.java:64
+msgid "Upgrading horse speed..."
+msgstr ""
+
+#: horse/src/main/java/io/kohi/horsearmor/listeners/EntityInteractListener.java:65
+#, java-format
+msgid "Speed before = {0} m/s"
+msgstr ""
+
+#: horse/src/main/java/io/kohi/horsearmor/listeners/EntityInteractListener.java:67
+#, java-format
+msgid "Speed after = {0} m/s"
+msgstr ""
+
+#: horse/src/main/java/io/kohi/horsearmor/listeners/EntityInteractListener.java:78
+msgid "--- Horse Info ---"
+msgstr ""
+
+#: horse/src/main/java/io/kohi/horsearmor/listeners/EntityInteractListener.java:81
+#, java-format
+msgid "Owner: {0}"
+msgstr ""
+
+#: horse/src/main/java/io/kohi/horsearmor/listeners/EntityInteractListener.java:83
+msgid "Owner: Horse is wild"
+msgstr ""
+
+#: horse/src/main/java/io/kohi/horsearmor/listeners/EntityInteractListener.java:86
+#, java-format
+msgid "Speed = {0} m/s"
+msgstr ""
+
+#: horse/src/main/java/io/kohi/horsearmor/listeners/EntityInteractListener.java:88
+#, java-format
+msgid "Jump = {0} blocks"
+msgstr ""
+
+#: horse/src/main/java/io/kohi/horsearmor/listeners/EntityInteractListener.java:90
+#, java-format
+msgid "Max-Health = {0}"
+msgstr ""
+
+#: kevents/src/main/java/net/badlion/kevents/command/BloodBowlCommand.java:81
+#: kevents/src/main/java/net/badlion/kevents/command/ManhuntCommand.java:29
+#: kevents/src/main/java/net/badlion/kevents/command/ManhuntCommand.java:42
+msgid "No permission."
+msgstr ""
+
+#: kevents/src/main/java/net/badlion/kevents/command/EventsCommand.java:21
+#, java-format
+msgid "{0}Event Times{1}"
+msgstr ""
+
+#: kevents/src/main/java/net/badlion/kevents/command/EventsCommand.java:43
+#: kevents/src/main/java/net/badlion/kevents/command/EventsCommand.java:49
+#: kevents/src/main/java/net/badlion/kevents/command/EventsCommand.java:55
+#, java-format
+msgid "{0}Active Now!"
+msgstr ""
+
+#: kevents/src/main/java/net/badlion/kevents/command/EventsCommand.java:63
+#, java-format
+msgid "{0}Active in {1}"
+msgstr ""
+
+#: kevents/src/main/java/net/badlion/kevents/listener/BloodBowlListener.java:53
+msgid "You can not enter the bloodbowl world with pvp protection."
+msgstr ""
+
+#: kevents/src/main/java/net/badlion/kevents/listener/ManHuntListener.java:41
+#: kevents/src/main/java/net/badlion/kevents/listener/ManHuntListener.java:46
+msgid "You can not break the manhunt plate!"
+msgstr ""
+
+#: kevents/src/main/java/net/badlion/kevents/listener/ManHuntListener.java:52
+msgid "You can not break blocks near the manhunt plate!"
+msgstr ""
+
+#: kevents/src/main/java/net/badlion/kevents/listener/ManHuntListener.java:68
+msgid "You can not place blocks near the manhunt plate!"
+msgstr ""
+
+#: kevents/src/main/java/net/badlion/kevents/listener/ManHuntListener.java:104
+msgid "You can't participate in Man Hunt with a PvP Timer!"
+msgstr ""
+
+#: kevents/src/main/java/net/badlion/kevents/listener/ManHuntListener.java:109
+msgid ""
+"You are now tagged for the Man Hunt! Stay alive for 10 minutes without "
+"leaving the warzone or logging out to get a rare prize!"
+msgstr ""
+
+#: kevents/src/main/java/net/badlion/kevents/listener/ManHuntListener.java:114
+msgid "Someone is already tagged for the Man Hunt! Go hunt them down!"
+msgstr ""
+
+#: kevents/src/main/java/net/badlion/kevents/listener/ManHuntListener.java:134
+msgid ""
+"You are now tagged for Man Hunt! Stay alive for 20 minutes without leaving "
+"the warzone or logging out to get a prize!"
+msgstr ""
+
+#: kevents/src/main/java/net/badlion/kevents/listener/StrongHoldListener.java:52
+msgid "You cant break that chest."
+msgstr ""
+
+#: kevents/src/main/java/net/badlion/kevents/listener/StrongHoldListener.java:56
+msgid "Removed a stronghold chest."
+msgstr ""
+
+#: kevents/src/main/java/net/badlion/kevents/listener/StrongHoldListener.java:105
+msgid "That chest can not be looted right now."
+msgstr ""
+
+#: kevents/src/main/java/net/badlion/kevents/listener/StrongHoldListener.java:108
+msgid "Your faction does not control stronghold."
+msgstr ""
+
+#: kevents/src/main/java/net/badlion/kevents/listener/StrongHoldListener.java:111
+msgid "No faction controls stronghold."
+msgstr ""
+
+#: kevents/src/main/java/net/badlion/kevents/listener/StrongHoldListener.java:114
+msgid "You are not in a faction."
+msgstr ""
+
+#: kevents/src/main/java/net/badlion/kevents/manager/ManHuntManager.java:204
+#: kevents/src/main/java/net/badlion/kevents/task/ManHuntTrackerTask.java:81
+msgid "You can not be in a vehicle while tagged for manhunt."
+msgstr ""
+
+#: kevents/src/main/java/net/badlion/kevents/task/GiveKeysTask.java:42
+#, java-format
+msgid "Please empty {0} to receive your keys."
+msgstr ""
+
+#: kevents/src/main/java/net/badlion/kevents/task/ManHuntBoundsCheckerTask.java:40
+msgid "Cannot go above y=100 when tagged for Man Hunt"
+msgstr ""
+
+#: kevents/src/main/java/net/badlion/kevents/task/ManHuntTrackerTask.java:65
+msgid "You must keep moving around while tagged for manhunt!"
+msgstr ""
+
+#: kevents/src/main/java/net/badlion/kevents/task/ManHuntTrackerTask.java:66
+msgid "You will start to take damage if you do not move!"
+msgstr ""
+
+#: kevents/src/main/java/net/badlion/kevents/type/bloodbowl/BloodBowlCapzone.java:74
+msgid "Now controlling bloodbowl"
+msgstr ""
+
+#: kevents/src/main/java/net/badlion/kevents/type/bloodbowl/BloodBowlCapzone.java:92
+#, java-format
+msgid "Member: {0} is controlling bloodbowl"
+msgstr ""
+
+#: kevents/src/main/java/net/badlion/kevents/type/bloodbowl/BloodBowlCapzone.java:99
+#: kevents/src/main/java/net/badlion/kevents/type/bloodbowl/BloodBowlCapzone.java:212
+#: kevents/src/main/java/net/badlion/kevents/type/bloodbowl/BloodBowlCapzone.java:217
+msgid "You need a faction to capture bloodbowl!"
+msgstr ""
+
+#: kevents/src/main/java/net/badlion/kevents/type/bloodbowl/BloodBowlCapzone.java:112
+#, java-format
+msgid "Member: {0} is the new controller of bloodbowl"
+msgstr ""
+
+#: kevents/src/main/java/net/badlion/kevents/type/bloodbowl/BloodBowlCapzone.java:125
+#, java-format
+msgid "Member: {0} was knocked off bloodbowl"
+msgstr ""
+
+#: kfactions/src/main/java/com/massivecraft/factions/FPlayer.java:538
+#, java-format
+msgid "{0}Leaving {1}, entering {2}"
+msgstr ""
+
+#: kfactions/src/main/java/com/massivecraft/factions/FPlayer.java:541
+#, java-format
+msgid "{0}PvP protection timer paused."
+msgstr ""
+
+#: kfactions/src/main/java/com/massivecraft/factions/FPlayer.java:543
+#, java-format
+msgid "{0}PvP protection timer started."
+msgstr ""
+
+#: kfactions/src/main/java/com/massivecraft/factions/FPlayer.java:549
+#, java-format
+msgid "{0}Entering {1}"
+msgstr ""
+
+#: kfactions/src/main/java/com/massivecraft/factions/FPlayer.java:1079
+#, java-format
+msgid "{0}Members online({1}): {2}"
+msgstr ""
+
+#: kfactions/src/main/java/com/massivecraft/factions/FPlayer.java:1083
+#, java-format
+msgid "{0}Members offline({1}): {2}"
+msgstr ""
+
+#: kfactions/src/main/java/com/massivecraft/factions/cmd/CommandLogout.java:24
+msgid "You can not logout safe when you are pvp tagged!"
+msgstr ""
+
+#: kfactions/src/main/java/com/massivecraft/factions/cmd/CommandLogout.java:28
+msgid "You are already logging out!"
+msgstr ""
+
+#: kfactions/src/main/java/com/massivecraft/factions/cmd/chat/FactionChatAliasCommand.java:33
+msgid "Faction only chat mode."
+msgstr ""
+
+#: kfactions/src/main/java/com/massivecraft/factions/cmd/deathban/CmdRevive.java:28
+msgid "That player is not deathbanned"
+msgstr ""
+
+#: kfactions/src/main/java/com/massivecraft/factions/cmd/deathban/CmdRevive.java:32
+#, java-format
+msgid "Removed {0}'s deathban!"
+msgstr ""
+
+#: kfactions/src/main/java/com/massivecraft/factions/cmd/deathban/GiftLivesCommand.java:20
+#, java-format
+msgid "Usage: {0}/giftlives [name] [# of lives]"
+msgstr ""
+
+#: kfactions/src/main/java/com/massivecraft/factions/cmd/deathban/GiftLivesCommand.java:28
+#: kfactions/src/main/java/com/massivecraft/factions/cmd/deathban/GiftLivesCommand.java:33
+msgid "Invalid usage."
+msgstr ""
+
+#: kfactions/src/main/java/com/massivecraft/factions/cmd/deathban/GiftLivesCommand.java:46
+#: kfactions/src/main/java/com/massivecraft/factions/cmd/deathban/GiftLivesCommand.java:68
+#, java-format
+msgid "You do not have enough lives to gift. You only have {0}"
+msgstr ""
+
+#: kfactions/src/main/java/com/massivecraft/factions/cmd/deathban/GiftLivesCommand.java:79
+#, java-format
+msgid "{0} has gifted you {1}"
+msgstr ""
+
+#: kfactions/src/main/java/com/massivecraft/factions/cmd/deathban/GiftLivesCommand.java:82
+#, java-format
+msgid "{0}You have given {1} a total of {2}"
+msgstr ""
+
+#: kfactions/src/main/java/com/massivecraft/factions/cmd/deathban/GiftLivesCommand.java:84
+#, java-format
+msgid "{0}You now have {1}"
+msgstr ""
+
+#: kfactions/src/main/java/com/massivecraft/factions/cmd/deathban/LivesCommand.java:28
+#, java-format
+msgid "{0}Added lives."
+msgstr ""
+
+#: kfactions/src/main/java/com/massivecraft/factions/cmd/deathban/LivesCommand.java:56
+#, java-format
+msgid "{0}You currently have {1}"
+msgstr ""
+
+#: kfactions/src/main/java/com/massivecraft/factions/cmd/deathban/PlayerReviveCommand.java:30
+msgid "You can not revive that player because you do not have any lives!"
+msgstr ""
+
+#: kfactions/src/main/java/com/massivecraft/factions/cmd/deathban/PlayerReviveCommand.java:40
+#, java-format
+msgid "{1}Could not find player {0}"
+msgstr ""
+
+#: kfactions/src/main/java/com/massivecraft/factions/cmd/deathban/PlayerReviveCommand.java:49
+#, java-format
+msgid "{0}You can not revive that player because you do not have any lives!"
+msgstr ""
+
+#: kfactions/src/main/java/com/massivecraft/factions/cmd/deathban/PlayerReviveCommand.java:55
+#, java-format
+msgid "{0}Player is not deathbanned."
+msgstr ""
+
+#: kfactions/src/main/java/com/massivecraft/factions/cmd/deathban/PlayerReviveCommand.java:61
+#, java-format
+msgid "{0}Revived {0}. You now have {2}"
+msgstr ""
+
+#: kfactions/src/main/java/com/massivecraft/factions/cmd/deathban/PlayerReviveCommand.java:66
+#, java-format
+msgid "{0}Could not find player {1}"
+msgstr ""
+
+#: kfactions/src/main/java/com/massivecraft/factions/cmd/pvpprot/CmdEnable.java:46
+msgid "That player does not have pvp protection"
+msgstr ""
+
+#: kfactions/src/main/java/com/massivecraft/factions/cmd/pvpprot/CmdEnable.java:49
+msgid "You do not have pvp protection."
+msgstr ""
+
+#: kfactions/src/main/java/com/massivecraft/factions/cmd/pvpprot/CmdEnable.java:51
+msgid "That player does not have pvp protection."
+msgstr ""
+
+#: kfactions/src/main/java/com/massivecraft/factions/cmd/pvpprot/CmdEnable.java:53
+#: kfactions/src/main/java/com/massivecraft/factions/cmd/pvpprot/CmdEnable.java:72
+#, java-format
+msgid "{0}You do not have permission to enable pvp for others."
+msgstr ""
+
+#: kfactions/src/main/java/com/massivecraft/factions/cmd/pvpprot/CmdEnable.java:70
+#, java-format
+msgid "{0}Enabled {1}'s PvP!"
+msgstr ""
+
+#: kfactions/src/main/java/com/massivecraft/factions/cmd/pvpprot/CmdGive.java:44
+#, java-format
+msgid "{0}You now have pvp protection"
+msgstr ""
+
+#: kfactions/src/main/java/com/massivecraft/factions/listeners/FactionsBlockListener.java:210
+msgid "You can not place a chest next to a subclaim in wilderness"
+msgstr ""
+
+#: kfactions/src/main/java/com/massivecraft/factions/listeners/FactionsBlockListener.java:268
+msgid "{0]You can not break this subclaim."
+msgstr ""
+
+#: kfactions/src/main/java/com/massivecraft/factions/listeners/FactionsBlockListener.java:277
+msgid "You have removed this subclaim."
+msgstr ""
+
+#: kfactions/src/main/java/com/massivecraft/factions/listeners/FactionsBlockListener.java:309
+#, java-format
+msgid "{0}You can not break this subclaim."
+msgstr ""
+
+#: kfactions/src/main/java/com/massivecraft/factions/listeners/FactionsBlockListener.java:318
+#, java-format
+msgid "{0}You have removed this subclaim."
+msgstr ""
+
+#: kfactions/src/main/java/com/massivecraft/factions/listeners/FactionsBlockListener.java:453
+#, java-format
+msgid ""
+"{0}You must place officer signs on chests. Sneak and right click the a chest "
+"with a sign in your hand."
+msgstr ""
+
+#: kfactions/src/main/java/com/massivecraft/factions/listeners/FactionsBlockListener.java:459
+#, java-format
+msgid ""
+"{0}You must place officer signs on chests. Sneak and right click a chest "
+"with a sign in your hand."
+msgstr ""
+
+#: kfactions/src/main/java/com/massivecraft/factions/listeners/FactionsBlockListener.java:464
+#, java-format
+msgid "{0}That chest is already a subclaim, use another chest."
+msgstr ""
+
+#: kfactions/src/main/java/com/massivecraft/factions/listeners/FactionsBlockListener.java:470
+#, java-format
+msgid "{0}You must be in a faction to protect chests."
+msgstr ""
+
+#: kfactions/src/main/java/com/massivecraft/factions/listeners/FactionsBlockListener.java:475
+#, java-format
+msgid "{0}You must be officer or higher to protect chests."
+msgstr ""
+
+#: kfactions/src/main/java/com/massivecraft/factions/listeners/FactionsBlockListener.java:480
+#, java-format
+msgid "{0}You may only protect chests in your land."
+msgstr ""
+
+#: kfactions/src/main/java/com/massivecraft/factions/listeners/FactionsExploitListener.java:29
+msgid "{0]You can not place spawners in the nether!"
+msgstr ""
+
+#: kfactions/src/main/java/com/massivecraft/factions/listeners/FactionsExploitListener.java:34
+msgid "You can not place beds in the nether!"
+msgstr ""
+
+#: kfactions/src/main/java/com/massivecraft/factions/listeners/FactionsExploitListener.java:44
+#, java-format
+msgid "{0}You can not break spawners in the nether!"
+msgstr ""
+
+#: kfactions/src/main/java/com/massivecraft/factions/listeners/FactionsPlayerListener.java:385
+#, java-format
+msgid "{0}Teleporting home cancelled because you took damage."
+msgstr ""
+
+#: kfactions/src/main/java/com/massivecraft/factions/listeners/FactionsPlayerListener.java:398
+#: kfactions/src/main/java/com/massivecraft/factions/listeners/FactionsPlayerListener.java:403
+#, java-format
+msgid "{0}Teleporting home cancelled because you attacked."
+msgstr ""
+
+#: kfactions/src/main/java/com/massivecraft/factions/listeners/FactionsPlayerListener.java:421
+#, java-format
+msgid "{0}You can not enter an end portal while pvp tagged."
+msgstr ""
+
+#: kfactions/src/main/java/com/massivecraft/factions/listeners/FactionsPlayerListener.java:431
+#, java-format
+msgid "{0}You can not enter an end portal with pvp protection."
+msgstr ""
+
+#: kfactions/src/main/java/com/massivecraft/factions/listeners/FactionsPlayerListener.java:465
+#, java-format
+msgid ""
+"{0}You can not enter SafeZone while PvP tagged. Please wait {1} seconds."
+msgstr ""
+
+#: kfactions/src/main/java/com/massivecraft/factions/listeners/FactionsPlayerListener.java:479
+#, java-format
+msgid ""
+"{0}You can not enter {1}'s land while PvP protected. Please use '/pvp "
+"enable' if you wish to enable PvP."
+msgstr ""
+
+#: kfactions/src/main/java/com/massivecraft/factions/listeners/FactionsPlayerListener.java:494
+#, java-format
+msgid "{0}You must be in a faction to enter event zones."
+msgstr ""
+
+#: kfactions/src/main/java/com/massivecraft/factions/listeners/FactionsPlayerListener.java:500
+#, java-format
+msgid "{0}You must be in a faction for {1} in order to enter event zones."
+msgstr ""
+
+#: kfactions/src/main/java/com/massivecraft/factions/listeners/FactionsPlayerListener.java:501
+#, java-format
+msgid "{0}You have been in {1} for {2}."
+msgstr ""
+
+#: kfactions/src/main/java/com/massivecraft/factions/listeners/FactionsPlayerListener.java:503
+#, java-format
+msgid "{0}You can not enter event zones."
+msgstr ""
+
+#: kfactions/src/main/java/com/massivecraft/factions/listeners/FactionsPlayerListener.java:525
+#: kfactions/src/main/java/com/massivecraft/factions/listeners/FactionsPlayerListener.java:529
+#, java-format
+msgid "{0}Teleporting home cancelled because you used a enderpearl."
+msgstr ""
+
+#: kfactions/src/main/java/com/massivecraft/factions/listeners/FactionsPlayerListener.java:569
+#, java-format
+msgid "{0}You can't be in a claimed area with pvp protection."
+msgstr ""
+
+#: kfactions/src/main/java/com/massivecraft/factions/listeners/FactionsVehicleListener.java:54
+#, java-format
+msgid "{0}You can't enter a vehicle in faction land."
+msgstr ""
+
+#: kfactions/src/main/java/com/massivecraft/factions/listeners/FactionsVehicleListener.java:69
+#, java-format
+msgid "{0}You can't enter a vehicle here: faction land is nearby."
+msgstr ""
+
+#: kfactions/src/main/java/com/massivecraft/factions/listeners/FactionsVehicleListener.java:98
+#, java-format
+msgid "{0}You can't use vehicles in faction land."
+msgstr ""
+
+#: kfactions/src/main/java/com/massivecraft/factions/listeners/KitSignListener.java:38
+#, java-format
+msgid "{0}You must place this kit sign on a wall."
+msgstr ""
+
+#: kfactions/src/main/java/com/massivecraft/factions/listeners/KitSignListener.java:47
+msgid "You can not make kit signs."
+msgstr ""
+
+#: kfactions/src/main/java/com/massivecraft/factions/listeners/KitSignListener.java:61
+#, java-format
+msgid "{0}You can not use the fishing kit for {1}"
+msgstr ""
+
+#: kfactions/src/main/java/com/massivecraft/factions/listeners/LoggerListener.java:62
+#, java-format
+msgid "{0}Logout cancelled because you took damage."
+msgstr ""
+
+#: kfactions/src/main/java/com/massivecraft/factions/listeners/LoggerListener.java:70
+#, java-format
+msgid "{0}Logout cancelled because you attacked."
+msgstr ""
+
+#: kfactions/src/main/java/com/massivecraft/factions/manager/SubclaimManager.java:151
+#: kfactions/src/main/java/com/massivecraft/factions/manager/SubclaimManager.java:157
+#, java-format
+msgid ""
+"{0}You must place subclaim signs on chests. Sneak and right click the a "
+"chest with a sign in your hand."
+msgstr ""
+
+#: kfactions/src/main/java/com/massivecraft/factions/manager/SubclaimManager.java:163
+#, java-format
+msgid "{0}You must be in a faction to create a subclaim chest."
+msgstr ""
+
+#: kfactions/src/main/java/com/massivecraft/factions/manager/SubclaimManager.java:168
+#, java-format
+msgid "{0}You may only create subclaims in your land."
+msgstr ""
+
+#: kfactions/src/main/java/com/massivecraft/factions/manager/SubclaimManager.java:173
+#, java-format
+msgid "{0}This chest is already a subclaim."
+msgstr ""
+
+#: kfactions/src/main/java/com/massivecraft/factions/smellychat/FactionChannelHandler.java:26
+#: kfactions/src/main/java/com/massivecraft/factions/smellychat/FactionChannelHandler.java:43
+#, java-format
+msgid "{0}You are not in a faction!"
+msgstr ""
+
+#: kfactions/src/main/java/com/massivecraft/factions/smellychat/FactionChannelHandler.java:58
+#: kgames/src/main/java/io/kohi/kgames/GameChatHandler.java:24
+#: lobbychat/src/main/java/net/badlion/lobbychat/LobbyChannelHandler.java:25
+#, java-format
+msgid "{0}Global chat is disabled"
+msgstr ""
+
+#: kfactions/src/main/java/com/massivecraft/factions/type/HomeTask.java:45
+#, java-format
+msgid "{0}Teleported home."
+msgstr ""
+
+#: kfactions/src/main/java/com/massivecraft/factions/type/HomeTask.java:53
+#, java-format
+msgid "{0}Teleporting home cancelled because you moved."
+msgstr ""
+
+#: kfactions/src/main/java/com/massivecraft/factions/type/HomeTask.java:56
+#, java-format
+msgid "{0}Teleporting to home in {1} seconds."
+msgstr ""
+
+#: kfactions/src/main/java/com/massivecraft/factions/type/LogoutTask.java:48
+#, java-format
+msgid "{0}Logout cancelled because you moved."
+msgstr ""
+
+#: kfactions/src/main/java/com/massivecraft/factions/type/LogoutTask.java:51
+#, java-format
+msgid "{0}Logging out: {1}s"
+msgstr ""
+
+#: kfactions/src/main/java/com/massivecraft/factions/type/StuckTask.java:39
+#, java-format
+msgid "{0}Unable to find a safe spot to teleport you to."
+msgstr ""
+
+#: kfactions/src/main/java/com/massivecraft/factions/type/StuckTask.java:63
+#, java-format
+msgid "{0}Teleported out of that claim."
+msgstr ""
+
+#: kfactions/src/main/java/com/massivecraft/factions/type/StuckTask.java:65
+msgid "Unable to find a safe spot to teleport you to."
+msgstr ""
+
+#: kfactions/src/main/java/com/massivecraft/factions/type/StuckTask.java:73
+#, java-format
+msgid "{0}Faction Stuck cancelled because you moved."
+msgstr ""
+
+#: kfactions/src/main/java/com/massivecraft/factions/type/StuckTask.java:77
+#, java-format
+msgid "{0}Teleporting out of this claim in {1} seconds."
+msgstr ""
+
+#: kgames/src/main/java/io/kohi/kgames/listeners/BlockListener.java:24
+#, java-format
+msgid "{0}You can't build in deathmatch."
+msgstr ""
+
+#: kgames/src/main/java/io/kohi/kgames/listeners/InteractListener.java:39
+#, java-format
+msgid "{0}Pointing at {1}"
+msgstr ""
+
+#: kgames/src/main/java/io/kohi/kgames/listeners/InteractListener.java:45
+#: kgames/src/main/java/io/kohi/kgames/listeners/PlayerListener.java:129
+#, java-format
+msgid "{0}You can't do that with PVP Protection!"
+msgstr ""
+
+#: kgames/src/main/java/io/kohi/kgames/listeners/PlayerListener.java:76
+#: kgames/src/main/java/io/kohi/kgames/listeners/PlayerListener.java:90
+#, java-format
+msgid "{0}You have PVP protection!"
+msgstr ""
+
+#: kgames/src/main/java/io/kohi/kgames/menu/SpectatorMenu.java:52
+#, java-format
+msgid "{0}Teleported to {1}"
+msgstr ""
+
+#: lootkeys/src/main/java/net/kohi/lootkeys/command/KeyCommand.java:40
+#, java-format
+msgid "{0}Spawned a {1} key!"
+msgstr ""
+
+#: lootkeys/src/main/java/net/kohi/lootkeys/command/LootChestCommand.java:36
+#, java-format
+msgid "{0}Spawned a {1} chest!"
+msgstr ""
+
+#: lootkeys/src/main/java/net/kohi/lootkeys/listener/KeyListener.java:89
+#, java-format
+msgid "{0}Unknown key type."
+msgstr ""
+
+#: lootkeys/src/main/java/net/kohi/lootkeys/listener/KeyListener.java:93
+#, java-format
+msgid "{1} keys may open these chests:"
+msgstr ""
+
+#: minecraft4/arenasetup/src/main/java/net/badlion/arenasetup/manager/ArenaManager.java:195
+msgid "Warp "
+msgstr ""
+
+#: minecraft4/disguise/src/main/java/net/badlion/disguise/commands/DisguiseCommand.java:21
+#: minecraft4/disguise/src/main/java/net/badlion/disguise/commands/RedisguiseCommand.java:21
+#: minecraft4/disguise/src/main/java/net/badlion/disguise/commands/UndisguiseCommand.java:21
+#, java-format
+msgid "{0}Cannot use disguise commands on this server, must be in a lobby!"
+msgstr ""
+
+#: minecraft4/disguise/src/main/java/net/badlion/disguise/commands/DisguiseCommand.java:27
+#: minecraft4/disguise/src/main/java/net/badlion/disguise/commands/RedisguiseCommand.java:27
+#: minecraft4/disguise/src/main/java/net/badlion/disguise/commands/UndisguiseCommand.java:27
+#, java-format
+msgid "{0}Cannot spam disguise commands, wait 5 seconds."
+msgstr ""
+
+#: minecraft4/disguise/src/main/java/net/badlion/disguise/commands/DisguiseCommand.java:33
+#, java-format
+msgid "{0}You are already disguised!"
+msgstr ""
+
+#: minecraft4/disguise/src/main/java/net/badlion/disguise/commands/UndisguiseCommand.java:33
+#, java-format
+msgid "{0}You are not disguised!"
+msgstr ""
+
+#: minecraft4/disguise/src/main/java/net/badlion/disguise/commands/UndisguiseCommand.java:38
+#, java-format
+msgid "{0}You have disabled disguise."
+msgstr ""
+
+#: minecraft4/disguise/src/main/java/net/badlion/disguise/managers/DisguiseManager.java:267
+#, java-format
+msgid "{0}You have redisguised! Your disguise name is {1}."
+msgstr ""
+
+#: minecraft4/disguise/src/main/java/net/badlion/disguise/managers/DisguiseManager.java:269
+#, java-format
+msgid "{0}You have enabled disguise! Your disguise name is {1},"
+msgstr ""
+
+#: minecraft4/gberry/src/main/java/net/badlion/gberry/DefaultListCommandHandler.java:12
+#, java-format
+msgid "{0}Players Online [{1}/{2}]:"
+msgstr ""
+
+#: minecraft4/gberry/src/main/java/net/badlion/gberry/commands/DiscordCommand.java:42
+#, java-format
+msgid "{0}The Discord UUID for this account has been removed."
+msgstr ""
+
+#: minecraft4/gberry/src/main/java/net/badlion/gberry/commands/DiscordCommand.java:53
+#, java-format
+msgid "{0}The Discord UUID is already set for this account."
+msgstr ""
+
+#: minecraft4/gberry/src/main/java/net/badlion/gberry/commands/DiscordCommand.java:62
+#, java-format
+msgid ""
+"{0}Cannot use this Discord UUID at the moment. Another user is using it."
+msgstr ""
+
+#: minecraft4/gberry/src/main/java/net/badlion/gberry/commands/DiscordCommand.java:63
+#, java-format
+msgid ""
+"{0}Use \"/discord remove\" from the other account first before trying to add "
+"it."
+msgstr ""
+
+#: minecraft4/gberry/src/main/java/net/badlion/gberry/commands/DiscordCommand.java:76
+#, java-format
+msgid "{0}Your Discord UUID has been set"
+msgstr ""
+
+#: minecraft4/gberry/src/main/java/net/badlion/gberry/commands/DiscordCommand.java:90
+msgid "{0]Discord Commands:"
+msgstr ""
+
+#: minecraft4/gberry/src/main/java/net/badlion/gberry/commands/DiscordCommand.java:92
+#, java-format
+msgid "{0} - Sends the discord command usage"
+msgstr ""
+
+#: minecraft4/gberry/src/main/java/net/badlion/gberry/commands/DiscordCommand.java:94
+#, java-format
+msgid "{0} - Set your discord_uuid for the account you are on"
+msgstr ""
+
+#: minecraft4/gberry/src/main/java/net/badlion/gberry/commands/DiscordCommand.java:96
+#, java-format
+msgid "{0} - Remove the discord_uuid associated with this account"
+msgstr ""
+
+#: minecraft4/gberry/src/main/java/net/badlion/gberry/commands/PunishmentsCommand.java:21
+#, java-format
+msgid ""
+"{0}Your punishments: http://www.badlion.net/profile/user/{1}/punishments"
+msgstr ""
+
+#: minecraft4/gberry/src/main/java/net/badlion/gberry/listeners/ChatListener.java:60
+#, java-format
+msgid "{0}You are muted for spamming in chat."
+msgstr ""
+
+#: minecraft4/gberry/src/main/java/net/badlion/gberry/listeners/ChatListener.java:85
+#, java-format
+msgid "{0}Do not spam twitch and youtube links. One link every 5 minutes."
+msgstr ""
+
+#: minecraft4/gberry/src/main/java/net/badlion/gberry/listeners/ChatListener.java:95
+#, java-format
+msgid "{0}Do not say ez in chat, this is a mute-able offense."
+msgstr ""
+
+#: minecraft4/gberry/src/main/java/net/badlion/gberry/listeners/ChatListener.java:96
+#: minecraft4/gberry/src/main/java/net/badlion/gberry/listeners/ChatListener.java:103
+#, java-format
+msgid "{0}Be a good sport and say \"gg\" or \"gf\" instead."
+msgstr ""
+
+#: minecraft4/gberry/src/main/java/net/badlion/gberry/listeners/ChatListener.java:102
+#, java-format
+msgid "{0}Do not say rekt in chat, this is a mute-able offense."
+msgstr ""
+
+#: minecraft4/gberry/src/main/java/net/badlion/gberry/listeners/ChatListener.java:109
+#, java-format
+msgid "{0}Do not hackusate in chat! Use /report."
+msgstr ""
+
+#: minecraft4/gberry/src/main/java/net/badlion/gberry/listeners/ChatListener.java:110
+#, java-format
+msgid ""
+"{0}When you hackusate in chat you allow the hacker to toggle off their "
+"cheats before a mod can check them out."
+msgstr ""
+
+#: minecraft4/gberry/src/main/java/net/badlion/gberry/listeners/ChatListener.java:116
+#, java-format
+msgid "{0}Do not mention different hacks in chat."
+msgstr ""
+
+#: minecraft4/gberry/src/main/java/net/badlion/gberry/listeners/ChatListener.java:117
+#, java-format
+msgid ""
+"{0}Talking about different hacks may encourage other players to use them or "
+"find out more about them."
+msgstr ""
+
+#: minecraft4/gberry/src/main/java/net/badlion/gberry/listeners/ChatListener.java:123
+#: minecraft4/gberry/src/main/java/net/badlion/gberry/listeners/ChatListener.java:130
+#, java-format
+msgid "{0}Do not advertise in chat."
+msgstr ""
+
+#: minecraft4/gberry/src/main/java/net/badlion/gberry/listeners/ChatListener.java:124
+#: minecraft4/gberry/src/main/java/net/badlion/gberry/listeners/ChatListener.java:131
+#, java-format
+msgid "{0}If you persist, you will be IP banned from the network."
+msgstr ""
+
+#: minecraft4/gberry/src/main/java/net/badlion/gberry/listeners/ChatListener.java:137
+#, java-format
+msgid "{0}DO NOT ATTEMPT TO DISCUSS STAR WARS ON BADLION!"
+msgstr ""
+
+#: minecraft4/gberry/src/main/java/net/badlion/gberry/listeners/ChatListener.java:138
+#, java-format
+msgid "{0}YOU WILL BE BANNED IF YOU PERSIST!"
+msgstr ""
+
+#: minecraft4/gberry/src/main/java/net/badlion/gberry/listeners/ChatListener.java:147
+#, java-format
+msgid ""
+"{0}Do not spam in chat. You are muted for 15 minutes. (Won''t show on "
+"punishments)"
+msgstr ""
+
+#: minecraft4/gberry/src/main/java/net/badlion/gberry/listeners/ChatListener.java:173
+#, java-format
+msgid "{0}This website is not allowed in chat."
+msgstr ""
+
+#: minecraft4/gberry/src/main/java/net/badlion/gberry/listeners/ChatListener.java:183
+#, java-format
+msgid ""
+"{0}Do not spam laglion. You have been muted for an hour for server "
+"disrespect."
+msgstr ""
+
+#: minecraft4/gberry/src/main/java/net/badlion/gberry/listeners/ChatListener.java:189
+#, java-format
+msgid "{0}Do not spam \"{1}\" in chat. You are muted for 15 minutes."
+msgstr ""
+
+#: minecraft4/gberry/src/main/java/net/badlion/gberry/listeners/ChatListener.java:204
+#, java-format
+msgid "{0}Do not spam the chat. One message every 2.5 seconds."
+msgstr ""
+
+#: mobstacks/src/main/java/net/kohi/mobstacks/listener/MobListener.java:81
+#, java-format
+msgid "{0}You need 2 wheat to breed a stacked Cow."
+msgstr ""
+
+#: mobstacks/src/main/java/net/kohi/mobstacks/listener/MobListener.java:93
+#, java-format
+msgid "{0}You need 2 wheat to breed a stacked Sheep."
+msgstr ""
+
+#: mobstacks/src/main/java/net/kohi/mobstacks/listener/MobListener.java:105
+#, java-format
+msgid "{0}You need 2 carrots to breed a stacked Pig."
+msgstr ""
+
+#: mobstacks/src/main/java/net/kohi/mobstacks/listener/MobListener.java:117
+msgid "You need 2 seeds to breed a stacked Chicken."
+msgstr ""
+
+#: nightmare/src/main/java/net/kohi/nightmare/listener/BlockListener.java:124
+#: nightmare/src/main/java/net/kohi/nightmare/listener/BlockListener.java:129
+#: nightmare/src/main/java/net/kohi/nightmare/listener/BlockListener.java:145
+#, java-format
+msgid "{0}You can't put items in here."
+msgstr ""
+
+#: nightmare/src/main/java/net/kohi/nightmare/listener/PlayerListener.java:41
+#, java-format
+msgid "{0}Nope: {1} {2} is disabled in the nightmare world."
+msgstr ""
+
+#: nightmare/src/main/java/net/kohi/nightmare/listener/PlayerListener.java:56
+#, java-format
+msgid "{0}You can not use that here."
+msgstr ""
+
+#: nightmare/src/main/java/net/kohi/nightmare/listener/PlayerListener.java:97
+#, java-format
+msgid "{0}You can not drink that in this world!"
+msgstr ""
+
+#: nightmare/src/main/java/net/kohi/nightmare/listener/PlayerListener.java:102
+#, java-format
+msgid "{0}You already drank that potion."
+msgstr ""
+
+#: nightmare/src/main/java/net/kohi/nightmare/listener/PlayerListener.java:108
+#, java-format
+msgid "{0}Sleep in a bed to teleport to the nightmare world."
+msgstr ""
+
+#: nightmare/src/main/java/net/kohi/nightmare/listener/PlayerListener.java:116
+msgid "Sleeping now..."
+msgstr ""
+
+#: nightmare/src/main/java/net/kohi/nightmare/listener/PlayerListener.java:119
+msgid "You can not sleep in this bed while someone is sleeping!"
+msgstr ""
+
+#: nightmare/src/main/java/net/kohi/nightmare/listener/PlayerListener.java:162
+#: nightmare/src/main/java/net/kohi/nightmare/listener/PlayerListener.java:169
+#: nightmare/src/main/java/net/kohi/nightmare/listener/PlayerListener.java:176
+#: nightmare/src/main/java/net/kohi/nightmare/listener/PlayerListener.java:183
+#: nightmare/src/main/java/net/kohi/nightmare/listener/PlayerListener.java:190
+#, java-format
+msgid "{0}You can not break this bed while someone is sleeping!"
+msgstr ""
+
+#: portalfix/src/main/java/io/kohi/portalfix/listeners/InteractListener.java:69
+#, java-format
+msgid ""
+"{0}You must leave 1 block of space around both sides of where the portal "
+"will spawn!"
+msgstr ""
+
+#: potionchat/src/main/java/net/badlion/potionchat/AliasCommand.java:20
+#: potionchat/src/main/java/net/badlion/potionchat/CommandListener.java:16
+#: potionchat/src/main/java/net/badlion/potionchat/PotionChannelHandler.java:23
+msgid "You are not in a party!"
+msgstr ""
+
+#: potpvp/src/main/java/net/badlion/potpvp/commands/DuelCommand.java:208
+msgid "You cannot duel yourself."
+msgstr ""
+
+#: potpvp/src/main/java/net/badlion/potpvp/commands/DuelCommand.java:216
+msgid "Only the party leader can send duel requests."
+msgstr ""
+
+#: potpvp/src/main/java/net/badlion/potpvp/commands/DuelCommand.java:251
+msgid "Other player is in a party."
+msgstr ""
+
+#: potpvp/src/main/java/net/badlion/potpvp/commands/DuelCommand.java:260
+msgid "Player is not accepting duel requests."
+msgstr ""
+
+#: potpvp/src/main/java/net/badlion/potpvp/commands/DuelCommand.java:267
+msgid "Cannot duel player because they have you on their ignore list."
+msgstr ""
+
+#: potpvp/src/main/java/net/badlion/potpvp/commands/DuelCommand.java:281
+msgid "Not everyone in the other party is alive at the moment."
+msgstr ""
+
+#: potpvp/src/main/java/net/badlion/potpvp/commands/DuelCommand.java:291
+#, java-format
+msgid "{0} cannot accept a duel request at the moment because {1}"
+msgstr ""
+
+#: potpvp/src/main/java/net/badlion/potpvp/commands/DuelCommand.java:295
+#, java-format
+msgid "You cannot send a duel request at the moment because {0}"
+msgstr ""
+
+#: potpvp/src/main/java/net/badlion/potpvp/commands/DuelCommand.java:303
+msgid "Player already creating a duel request, cannot duel at the moment."
+msgstr ""
+
+#: potpvp/src/main/java/net/badlion/potpvp/commands/DuelCommand.java:315
+msgid "Command usage: /duel <player> to send a duel request"
+msgstr ""
+
+#: potpvp/src/main/java/net/badlion/potpvp/commands/FollowCommand.java:24
+msgid ""
+"You cannot follow if you are not in spectator mode. You also can only follow "
+"one person at a time."
+msgstr ""
+
+#: potpvp/src/main/java/net/badlion/potpvp/commands/FollowCommand.java:28
+msgid "This player is not online."
+msgstr ""
+
+#: potpvp/src/main/java/net/badlion/potpvp/commands/FollowCommand.java:31
+msgid "You can't follow yourself."
+msgstr ""
+
+#: potpvp/src/main/java/net/badlion/potpvp/commands/FollowCommand.java:50
+#, java-format
+msgid "You are now following {0}"
+msgstr ""
+
+#: potpvp/src/main/java/net/badlion/potpvp/commands/FollowCommand.java:59
+msgid "Command usage: /follow [name]"
+msgstr ""
+
+#: potpvp/src/main/java/net/badlion/potpvp/commands/GiftMatchesCommand.java:36
+#: potpvp/src/main/java/net/badlion/potpvp/commands/GiftMatchesCommand.java:76
+msgid "Player is not online, could not give extra ranked matches."
+msgstr ""
+
+#: potpvp/src/main/java/net/badlion/potpvp/commands/GiftMatchesCommand.java:58
+#: potpvp/src/main/java/net/badlion/potpvp/commands/GiftMatchesCommand.java:63
+msgid "You have already given out your extra ranked matches today."
+msgstr ""
+
+#: potpvp/src/main/java/net/badlion/potpvp/commands/GiftMatchesCommand.java:105
+#, java-format
+msgid "You have been given {0} extra ranked matches by {1}"
+msgstr ""
+
+#: potpvp/src/main/java/net/badlion/potpvp/commands/GiftMatchesCommand.java:107
+#, java-format
+msgid "You have given your extra ranked matches for the day to {0}"
+msgstr ""
+
+#: potpvp/src/main/java/net/badlion/potpvp/commands/GiftMatchesCommand.java:118
+msgid "Command usage: /giftmatches [name]"
+msgstr ""
+
+#: potpvp/src/main/java/net/badlion/potpvp/commands/GiftMatchesCommand.java:119
+msgid "This will give the specified player 20 extra ranked matches :)"
+msgstr ""
+
+#: potpvp/src/main/java/net/badlion/potpvp/commands/InviteCommand.java:21
+msgid "/invite <name> - Invite <name> to party."
+msgstr ""
+
+#: potpvp/src/main/java/net/badlion/potpvp/commands/JoinEventCommand.java:28
+msgid ""
+"You can only join events if you are in spawn, not in a party and not in a "
+"queue."
+msgstr ""
+
+#: potpvp/src/main/java/net/badlion/potpvp/commands/JoinEventCommand.java:33
+msgid "Cannot join this event since it has started already."
+msgstr ""
+
+#: potpvp/src/main/java/net/badlion/potpvp/commands/LeaveCommand.java:30
+#, java-format
+msgid "You cannot /leave at the moment because {0}"
+msgstr ""
+
+#: potpvp/src/main/java/net/badlion/potpvp/commands/LeaveCommand.java:55
+msgid "Can only use /leave when in queue."
+msgstr ""
+
+#: potpvp/src/main/java/net/badlion/potpvp/commands/LeaveCommand.java:58
+msgid "Only the leader can perform /leave."
+msgstr ""
+
+#: potpvp/src/main/java/net/badlion/potpvp/commands/QuotaCommand.java:18
+msgid "You have unlimited ranked matches as a donator! :)"
+msgstr ""
+
+#: potpvp/src/main/java/net/badlion/potpvp/commands/QuotaCommand.java:22
+#, java-format
+msgid "You have {0} matches left today.  Quotas reset at 12:00 AM EST."
+msgstr ""
+
+#: potpvp/src/main/java/net/badlion/potpvp/commands/RankedCommand.java:39
+#: potpvp/src/main/java/net/badlion/potpvp/commands/UnrankedCommand.java:31
+msgid "§3=§b=§3=§b=§3=§b=§3=§b= "
+msgstr ""
+
+#: potpvp/src/main/java/net/badlion/potpvp/commands/RankedCommand.java:40
+#: potpvp/src/main/java/net/badlion/potpvp/commands/RankedTeamCommand.java:63
+msgid ""
+"You have reached your daily quota of ranked matches. You can get more by "
+"donating"
+msgstr ""
+
+#: potpvp/src/main/java/net/badlion/potpvp/commands/RankedCommand.java:41
+#: potpvp/src/main/java/net/badlion/potpvp/commands/RankedTeamCommand.java:64
+msgid ""
+"or by voting at http://www.badlion.net/ once a day for 20 free ranked "
+"matches."
+msgstr ""
+
+#: potpvp/src/main/java/net/badlion/potpvp/commands/RankedCommand.java:86
+#: potpvp/src/main/java/net/badlion/potpvp/commands/RankedTeamCommand.java:113
+msgid "Use the inventory items to access the ranked queues."
+msgstr ""
+
+#: potpvp/src/main/java/net/badlion/potpvp/commands/RankedTeamCommand.java:75
+msgid "Only party leader can queue up."
+msgstr ""
+
+#: potpvp/src/main/java/net/badlion/potpvp/commands/RankedTeamCommand.java:80
+msgid "All players must be alive in your party to queue up."
+msgstr ""
+
+#: potpvp/src/main/java/net/badlion/potpvp/commands/RankedTeamCommand.java:81
+#, java-format
+msgid "Dead players: {0}"
+msgstr ""
+
+#: potpvp/src/main/java/net/badlion/potpvp/commands/RatingCommand.java:25
+#, java-format
+msgid "Your {0} rating is: "
+msgstr ""
+
+#: potpvp/src/main/java/net/badlion/potpvp/commands/RatingCommand.java:27
+msgid "Could not find your rating at the moment. Try again in a few seconds."
+msgstr ""
+
+#: potpvp/src/main/java/net/badlion/potpvp/commands/RatingCommand.java:47
+msgid "/rating <kit>"
+msgstr ""
+
+#: potpvp/src/main/java/net/badlion/potpvp/commands/SpawnCommand.java:25
+msgid "Cannot use /spawn in parties."
+msgstr ""
+
+#: potpvp/src/main/java/net/badlion/potpvp/commands/SpawnCommand.java:58
+msgid "You can only use /spawn when in a game. Use /leave to leave a queue."
+msgstr ""
+
+#: potpvp/src/main/java/net/badlion/potpvp/commands/UnfollowCommand.java:23
+msgid "Not currently following anyone."
+msgstr ""
+
+#: potpvp/src/main/java/net/badlion/potpvp/commands/UnfollowCommand.java:35
+#, java-format
+msgid "No longer following {0}"
+msgstr ""
+
+#: potpvp/src/main/java/net/badlion/potpvp/events/Event.java:141
+msgid "Cannot join queue, event already started"
+msgstr ""
+
+#: potpvp/src/main/java/net/badlion/potpvp/events/Event.java:146
+msgid "Already queued for event"
+msgstr ""
+
+#: potpvp/src/main/java/net/badlion/potpvp/events/Event.java:153
+msgid "Added to event queue"
+msgstr ""
+
+#: potpvp/src/main/java/net/badlion/potpvp/events/LastManStanding.java:73
+msgid "Welcome to Last Man Standing."
+msgstr ""
+
+#: potpvp/src/main/java/net/badlion/potpvp/events/LastManStanding.java:74
+msgid "Kills give 1 point.  Last kill gives 3 points."
+msgstr ""
+
+#: potpvp/src/main/java/net/badlion/potpvp/events/LastManStanding.java:75
+msgid "Last man standing wins."
+msgstr ""
+
+#: potpvp/src/main/java/net/badlion/potpvp/events/LastManStanding.java:210
+msgid "Internal error, contact an admin."
+msgstr ""
+
+#: potpvp/src/main/java/net/badlion/potpvp/ffaworlds/SGFFAWorld.java:326
+#, java-format
+msgid ""
+"Cannot use /spawn when in combat on the FFA World. You have {0} seconds "
+"remaining."
+msgstr ""
+
+#: prplzkoth/src/main/java/net/kohi/koth/command/UnrepairableCommand.java:52
+#, java-format
+msgid "{0}Your item is now unrepairable."
+msgstr ""
+
+#: prplzkoth/src/main/java/net/kohi/koth/task/GiveKeysTask.java:42
+#, java-format
+msgid "{0} Please empty {1} to receive your koth keys."
+msgstr ""
+
+#: uhc/src/main/java/net/badlion/uhc/commands/handlers/ModCommandHandler.java:126
+#: uhc/src/main/java/net/badlion/uhc/listeners/DisguiseListener.java:29
+msgid ""
+"You cannot be disguised when you are a mod or host, you have been "
+"undisguised!"
+msgstr ""
+
+#: uhc/src/main/java/net/badlion/uhc/listeners/DisguiseListener.java:44
+msgid "You cannot disguise when you are a mod or host!"
+msgstr ""
+
+#: uhc/src/main/java/net/badlion/uhc/listeners/DisguiseListener.java:50
+msgid "Cannot use the disguise command after the game has started."
+msgstr ""
+
+#: uhc/src/main/java/net/badlion/uhc/listeners/DisguiseListener.java:56
+msgid ""
+"You cannot disguise while in practice, do /practice to leave the practice "
+"arena!"
+msgstr ""
+
+#: uhc/src/main/java/net/badlion/uhc/listeners/DisguiseListener.java:73
+msgid "Cannot use the undisguise command after the game has started."
+msgstr ""
+
+#: uhc/src/main/java/net/badlion/uhc/listeners/gamemodes/BarebonesGameMode.java:50
+msgid "This item is not allowed"
+msgstr ""
+
+#: uhc/src/main/java/net/badlion/uhc/listeners/gamemodes/BarebonesGameMode.java:54
+msgid "You cannot use this"
+msgstr ""
+
+#: uhc/src/main/java/net/badlion/uhc/listeners/gamemodes/BowlessGameMode.java:32
+msgid "Bows are not allowed"
+msgstr ""
+
+#: uhc/src/main/java/net/badlion/uhc/listeners/gamemodes/RodlessGameMode.java:32
+msgid "Fishing rods are not allowed"
+msgstr ""
+
+#: vaultbattle/src/main/java/net/kohi/vaultbattle/command/AntiGriefCommands.java:37
+#, java-format
+msgid ""
+"{0} is already trusted by you. {1}If you want to untrust this player use /"
+"untrust <name>"
+msgstr ""
+
+#: vaultbattle/src/main/java/net/kohi/vaultbattle/command/AntiGriefCommands.java:45
+#, java-format
+msgid ""
+"{0}Added {1} to your trusted players list. {2}Use /untrust <name> to remove "
+"them."
+msgstr ""
+
+#: vaultbattle/src/main/java/net/kohi/vaultbattle/command/AntiGriefCommands.java:46
+#, java-format
+msgid "{0} added you to their trusted player list."
+msgstr ""
+
+#: vaultbattle/src/main/java/net/kohi/vaultbattle/command/AntiGriefCommands.java:77
+#, java-format
+msgid ""
+"{0} is not trusted by you. {1}If you want to trust this player use /trust "
+"<name>"
+msgstr ""
+
+#: vaultbattle/src/main/java/net/kohi/vaultbattle/command/AntiGriefCommands.java:85
+#, java-format
+msgid ""
+"{0}Removed {1} from your trusted players list. {2}Use /trust <name> to readd "
+"them."
+msgstr ""
+
+#: vaultbattle/src/main/java/net/kohi/vaultbattle/command/AntiGriefCommands.java:86
+#, java-format
+msgid "{0} removed you from their trusted player list."
+msgstr ""
+
+#: vaultbattle/src/main/java/net/kohi/vaultbattle/listener/AntiGriefListener.java:64
+#, java-format
+msgid "{0}This is one of {1}'s private blocks."
+msgstr ""
+
+#: vaultbattle/src/main/java/net/kohi/vaultbattle/listener/AntiGriefListener.java:68
+#, java-format
+msgid "{0}You can not use that {1}, it is owned by {2}"
+msgstr ""
+
+#: vaultbattle/src/main/java/net/kohi/vaultbattle/listener/AntiGriefListener.java:87
+#, java-format
+msgid "{0}You can not place hoppers under a private block!"
+msgstr ""
+
+#: vaultbattle/src/main/java/net/kohi/vaultbattle/listener/AntiGriefListener.java:95
+#, java-format
+msgid "{0}You can not have more than 6 brewing stands and furnaces."
+msgstr ""
+
+#: vaultbattle/src/main/java/net/kohi/vaultbattle/listener/AntiGriefListener.java:101
+#, java-format
+msgid "{0}You can not place a private block right next to an enderchest."
+msgstr ""
+
+#: vaultbattle/src/main/java/net/kohi/vaultbattle/listener/AntiGriefListener.java:107
+#, java-format
+msgid "{0}You can not place a private block right next to another one."
+msgstr ""
+
+#: vaultbattle/src/main/java/net/kohi/vaultbattle/listener/AntiGriefListener.java:114
+#, java-format
+msgid ""
+"{0}You can not place a private block that close to your teams spawn point."
+msgstr ""
+
+#: vaultbattle/src/main/java/net/kohi/vaultbattle/listener/AntiGriefListener.java:121
+#, java-format
+msgid ""
+"{0}This {1} is now protected, only you can use it and break it. {2}To add "
+"people to it, use /trust <name>"
+msgstr ""
+
+#: vaultbattle/src/main/java/net/kohi/vaultbattle/listener/AntiGriefListener.java:127
+#, java-format
+msgid "{0}You can not place an enchantment table right next to an enderchest."
+msgstr ""
+
+#: vaultbattle/src/main/java/net/kohi/vaultbattle/listener/AntiGriefListener.java:133
+#, java-format
+msgid ""
+"{0}You can not place an enchantment table right next to a protected block."
+msgstr ""
+
+#: vaultbattle/src/main/java/net/kohi/vaultbattle/listener/AntiGriefListener.java:140
+#, java-format
+msgid ""
+"{0}You can not place an enchantment table that close to your teams spawn "
+"point."
+msgstr ""
+
+#: vaultbattle/src/main/java/net/kohi/vaultbattle/listener/AntiGriefListener.java:156
+#, java-format
+msgid "{0}You cant break the last sugar cane block."
+msgstr ""
+
+#: vaultbattle/src/main/java/net/kohi/vaultbattle/listener/AntiGriefListener.java:163
+#, java-format
+msgid "{0}You cant break the block under a sugar cane."
+msgstr ""
+
+#: vaultbattle/src/main/java/net/kohi/vaultbattle/listener/AntiGriefListener.java:169
+#, java-format
+msgid "{0}You can not break mob spawners."
+msgstr ""
+
+#: vaultbattle/src/main/java/net/kohi/vaultbattle/listener/AntiGriefListener.java:178
+#, java-format
+msgid "{0}You just broke one of your private blocks."
+msgstr ""
+
+#: vaultbattle/src/main/java/net/kohi/vaultbattle/listener/AntiGriefListener.java:194
+#, java-format
+msgid "{0} just broke one of your private blocks."
+msgstr ""
+
+#: vaultbattle/src/main/java/net/kohi/vaultbattle/listener/AntiGriefListener.java:195
+#, java-format
+msgid "{0}You just broke one of {1}'s private blocks."
+msgstr ""
+
+#: vaultbattle/src/main/java/net/kohi/vaultbattle/listener/AntiGriefListener.java:199
+#, java-format
+msgid "{0}You can not break that {1}, it is owned by {2}."
+msgstr ""
+
+#: vaultbattle/src/main/java/net/kohi/vaultbattle/listener/BankListener.java:63
+#, java-format
+msgid "{0}You can not destroy your own bank blocks."
+msgstr ""
+
+#: vaultbattle/src/main/java/net/kohi/vaultbattle/listener/BankListener.java:69
+#, java-format
+msgid "{0}Your invisibility has been removed since you broke a bank block."
+msgstr ""
+
+#: vaultbattle/src/main/java/net/kohi/vaultbattle/listener/BankListener.java:95
+#: vaultbattle/src/main/java/net/kohi/vaultbattle/manager/GameManager.java:115
+#, java-format
+msgid "{0}You are now in global chat."
+msgstr ""
+
+#: vaultbattle/src/main/java/net/kohi/vaultbattle/listener/BankListener.java:139
+#, java-format
+msgid "{0}You can not place blocks in a bank."
+msgstr ""
+
+#: vaultbattle/src/main/java/net/kohi/vaultbattle/listener/PlayerListener.java:60
+#, java-format
+msgid "{0}You can't use that!"
+msgstr ""
+
+#: vaultbattle/src/main/java/net/kohi/vaultbattle/listener/PlayerListener.java:89
+#, java-format
+msgid "{0}You are no longer on a team."
+msgstr ""
+
+#: vaultbattle/src/main/java/net/kohi/vaultbattle/listener/PlayerListener.java:124
+#, java-format
+msgid "{0}That enderchest is not your teams."
+msgstr ""
+
+#: vaultbattle/src/main/java/net/kohi/vaultbattle/listener/PlayerListener.java:145
+msgid "You can not convert that item."
+msgstr ""
+
+#: vaultbattle/src/main/java/net/kohi/vaultbattle/listener/PlayerListener.java:154
+#: vaultbattle/src/main/java/net/kohi/vaultbattle/listener/PlayerListener.java:164
+#: vaultbattle/src/main/java/net/kohi/vaultbattle/listener/PlayerListener.java:178
+#, java-format
+msgid "{0}You can not build above y={1}"
+msgstr ""
+
+#: vaultbattle/src/main/java/net/kohi/vaultbattle/listener/PlayerListener.java:402
+#, java-format
+msgid "{0}You cannot craft this!"
+msgstr ""
+
+#: vaultbattle/src/main/java/net/kohi/vaultbattle/listener/SoulboundListener.java:34
+#: vaultbattle/src/main/java/net/kohi/vaultbattle/listener/SoulboundListener.java:66
+#, java-format
+msgid "{0}Soulbound destroyed"
+msgstr ""
+
+#: vaultbattle/src/main/java/net/kohi/vaultbattle/manager/TeamManager.java:94
+#, java-format
+msgid "{0}You are already are in team {1}"
+msgstr ""
+
+#: vaultbattle/src/main/java/net/kohi/vaultbattle/manager/TeamManager.java:100
+#, java-format
+msgid ""
+"{0}The {1} team is too full. Join another team or wait for teams to balance "
+"out."
+msgstr ""
+
+#: vaultbattle/src/main/java/net/kohi/vaultbattle/manager/TeamManager.java:110
+#, java-format
+msgid "{0}You joined the {1} team!"
+msgstr ""
+
+#: vaultbattle/src/main/java/net/kohi/vaultbattle/menu/admin/AdminMenu.java:31
+#, java-format
+msgid "{0}You are already in edit mode."
+msgstr ""
+
+#: vaultbattle/src/main/java/net/kohi/vaultbattle/menu/admin/AdminMenu.java:35
+#, java-format
+msgid "{0}Click a map to edit it."
+msgstr ""
+
+#: vaultbattle/src/main/java/net/kohi/vaultbattle/menu/admin/GameMapEditor.java:35
+#, java-format
+msgid "{0}Now editing {1}"
+msgstr ""
